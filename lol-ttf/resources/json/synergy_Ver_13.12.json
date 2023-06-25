@@ -1,0 +1,506 @@
+[
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9101.png",
+        "synergy_name": "暗裔",
+        "synergy_text": "当亚托克斯或暗裔之刃的持有者死亡时，暗裔之刃会装备给最近的盟友英雄，使他们获得450血量和 20% 的全能吸血。在为英雄装备4秒后，亚托克斯会在他们死亡时复活。",
+        "levels": [
+            {
+                "level": "1",
+                "level_text": "当亚托克斯或暗裔之刃的持有者死亡时，暗裔之刃会装备给最近的盟友英雄，使他们获得450血量和 20% 的全能吸血。在为英雄装备4秒后，亚托克斯会在他们死亡时复活。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9102.png",
+        "synergy_name": "德玛西亚",
+        "synergy_text": "在每个备战环节开始时，你最强大的若干【德玛西亚】弈子会变为【精锐】，从而携带一件随机的光明武器，持续到下一场战斗结束为止，并为他们自身和附近的友军们提供15护甲和魔抗。(不可叠加。) 光明版装备是成装的升级版本。",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "1个【精锐】，+5护甲和魔抗。"
+            },
+            {
+                "level": "5",
+                "level_text": "2个【精锐】,+20护甲和魔抗。"
+            },
+            {
+                "level": "7",
+                "level_text": "3个【精锐】,+50护甲和魔抗。"
+            },
+            {
+                "level": "9",
+                "level_text": "5个【精锐】,+100护甲和魔抗。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9104.png",
+        "synergy_name": "弗雷尔卓德",
+        "synergy_text": "在8秒后，一场冰风暴将席卷战场。敌人将受到相当于一部分最大生命值的真实伤害，并被施加减益效果。 护甲击碎：降低护甲 魔抗击碎：降低魔抗 破法：最大法力值提升，持续到施放技能为止",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "敌人们受到5%最大生命值的真实伤害，并被施加40%护甲击碎和魔抗击碎持续10秒"
+            },
+            {
+                "level": "3",
+                "level_text": "敌人们受到10%最大生命值的真实伤害，并且还会被施加35%破法效果"
+            },
+            {
+                "level": "4",
+                "level_text": "敌人们受到15%最大生命值的真实伤害，并且还会被晕眩1.5秒"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9105.png",
+        "synergy_name": "艾欧尼亚",
+        "synergy_text": "每个【艾欧尼亚】弈子都是各自战斗技艺的大师，因而会获得一定百分比的独特属性加成（已列在他们的技能说明文本中）。 每过4秒，一定数量的【艾欧尼亚】弈子就会进入其灵体形态，从而获得20法力值并使其属性加成在持续期间翻倍。",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "100%属性加成，1个灵体"
+            },
+            {
+                "level": "6",
+                "level_text": "200%属性加成，2个灵体"
+            },
+            {
+                "level": "9",
+                "level_text": "300%属性加成，3个灵体"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9106.png",
+        "synergy_name": "诺克萨斯",
+        "synergy_text": "当你赢得一个对玩家的回合后，你的这名对手会被视为已被你【征服】。【诺克萨斯】弈子们获得生命值、法术强度和额外攻击力，并且每个已被你【征服】的玩家都会使这个加成提升10%。",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "160生命值，16法强和16%攻击力"
+            },
+            {
+                "level": "6",
+                "level_text": "300生命值，28法和28%攻击力"
+            },
+            {
+                "level": "9",
+                "level_text": "500生命值，45法强和45%攻击力"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9107.png",
+        "synergy_name": "皮尔特沃夫",
+        "synergy_text": "获得【霸王海克斯机甲】。每当你输掉一场战斗时，【霸王海克斯机甲】会获得一层充能。赢得一场战斗时会释放所有充能，基于已释放的数量来为【霸王海克斯机甲】提供能量。 你也可以在它拥有任意能量时将其售出，这么做会重置【霸王海克斯机甲】的能量并将它的能量转化为战利品。",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "获得【霸王海克斯机甲】。"
+            },
+            {
+                "level": "6",
+                "level_text": "输掉战斗时会获得一层额外充能。赢得战斗时提供额外战利品。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9108.png",
+        "synergy_name": "涤魂圣枪",
+        "synergy_text": "每当一名友军获得护盾时，你最强大的那个【赛娜】就会为其提供可叠加的8%攻击速度，持续到战斗结束。",
+        "levels": [
+            {
+                "level": "1",
+                "level_text": "每当一名友军获得护盾时，你最强大的那个【赛娜】就会为其提供可叠加的8%攻击速度，持续到战斗结束。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9109.png",
+        "synergy_name": "暗影岛",
+        "synergy_text": "在受到或造成8次伤害后，【暗影岛】弈子们会获得持续8秒的护盾并变为其幽魂形态，从而每秒都会回复法力值，持续到战斗结束。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "40%生命值的护盾值，每秒回复5法力值"
+            },
+            {
+                "level": "4",
+                "level_text": "80%生命值的护盾值，每秒回复12法力值"
+            },
+            {
+                "level": "6",
+                "level_text": "125%生命值的护盾值，每秒回复20法力值"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9110.png",
+        "synergy_name": "恕瑞玛",
+        "synergy_text": "每4秒，【恕瑞玛】弈子治疗5%最大生命值。在8秒后，选择【恕瑞玛】弈子们飞升并获得30%额外生命值和45%攻击速度",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "最强大的那个【恕瑞玛】弈子"
+            },
+            {
+                "level": "5",
+                "level_text": "所有【恕瑞玛】弈子"
+            },
+            {
+                "level": "7",
+                "level_text": "他们在战斗开始时就会飞升"
+            },
+            {
+                "level": "9",
+                "level_text": "飞升效果变强125%"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9111.png",
+        "synergy_name": "巨神峰",
+        "synergy_text": "所有友军获得治疗效果和护盾效果提升。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "18%治疗效果和护盾效果提升"
+            },
+            {
+                "level": "3",
+                "level_text": "30%治疗效果和护盾效果提升"
+            },
+            {
+                "level": "4",
+                "level_text": "50%治疗效果和护盾效果提升"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9112.png",
+        "synergy_name": "虚空",
+        "synergy_text": "【虚空】弈子们制造一颗虚空蛋。一旦你的弈子们失去40%总生命值，这颗蛋就会孵化成一个生物，同时击飞附近的单位们。每个【虚空】单位的星级都会使召唤物的生命值和法术强度提升25%。",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "虚空鱼"
+            },
+            {
+                "level": "6",
+                "level_text": "峡谷先锋"
+            },
+            {
+                "level": "8",
+                "level_text": "纳什男爵"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9113.png",
+        "synergy_name": "约德尔人",
+        "synergy_text": "你的弈子们获得10%X星级的攻击速度。如果你有3个3星弈子，那么你的【约德尔人】们会变为4星，从而使他们的技能获得一个奇异的升级！",
+        "levels": [
+            {
+                "level": "3",
+                "level_text": "如果你有3个3星英雄，那么你最强大的那个3星【约德尔人】变为4星"
+            },
+            {
+                "level": "5",
+                "level_text": "2个3星【约德尔人】现在能变为4星"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/origins/9114.png",
+        "synergy_name": "祖安",
+        "synergy_text": "【祖安】弈子们可以制造仅有他们能用的炼金改件。弈子仅能携带一个改件，并且改件仅能通过售出该弈子来移除。如果改件在备战阶段开始时处在你的备战席，那么它将会转换成一个新改件。 (2) 获得1个炼金改件 (4) 获得2个炼金改件 (6) 给炼金改件们超频",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "获得1个炼金改件"
+            },
+            {
+                "level": "4",
+                "level_text": "获得2个炼金改件"
+            },
+            {
+                "level": "6",
+                "level_text": "给炼金改件们超频"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9001.png",
+        "synergy_name": "堡垒卫士",
+        "synergy_text": "【堡垒卫士】们获得护甲与魔抗。这个加成会在战斗的最初10秒提升至2倍。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "20护甲和魔抗"
+            },
+            {
+                "level": "4",
+                "level_text": "60护甲和魔抗"
+            },
+            {
+                "level": "6",
+                "level_text": "120护甲和魔抗"
+            },
+            {
+                "level": "8",
+                "level_text": "250护甲和魔抗"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9002.png",
+        "synergy_name": "格斗家",
+        "synergy_text": "所有友军获得100额外生命值。【格斗家】们获得额外最大生命值加成。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "+10%最大生命值"
+            },
+            {
+                "level": "4",
+                "level_text": "+35%最大生命值"
+            },
+            {
+                "level": "6",
+                "level_text": "+70%最大生命值"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9003.png",
+        "synergy_name": "挑战者",
+        "synergy_text": "【挑战者】们获得额外攻击速度。在参与一次击杀后，【挑战者】们会冲刺向一个新的目标并使这个加成翻倍，持续2.5秒。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "30%攻击速度"
+            },
+            {
+                "level": "4",
+                "level_text": "55%攻击速度"
+            },
+            {
+                "level": "6",
+                "level_text": "80%攻击速度"
+            },
+            {
+                "level": "8",
+                "level_text": "110%攻击速度"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9004.png",
+        "synergy_name": "亡眼射手",
+        "synergy_text": "固有能力：获得1格攻击距离。 每过3秒，所有【亡眼射手】就会攻击拥有最多百分比生命值的那名敌人，造成额外伤害。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "+20%伤害"
+            },
+            {
+                "level": "4",
+                "level_text": "+65%伤害"
+            },
+            {
+                "level": "6",
+                "level_text": "+140%伤害"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9005.png",
+        "synergy_name": "女皇",
+        "synergy_text": "【女皇】在击杀时会留下一个【虚空珊瑚】来供她享用。被她吃掉的第一个【虚空珊瑚】会将她转变成她的真正形态，使她的最大生命值提升50%。后续【虚空珊瑚】会回复她20%最大生命值。 每当一个【虚空珊瑚】被享用时，她就会在她附近2格半径内造成相当于她10%最大生命值的魔法伤害。",
+        "levels": [
+            {
+                "level": "1",
+                "level_text": "【女皇】在击杀时会留下一个【虚空珊瑚】来供她享用。被她吃掉的第一个【虚空珊瑚】会将她转变成她的真正形态，使她的最大生命值提升50%。后续【虚空珊瑚】会回复她20%最大生命值。每当一个【虚空珊瑚】被享用时，她就会在她附近2格半径内造成相当于她10%最大生命值的魔法伤害。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9006.png",
+        "synergy_name": "枪手",
+        "synergy_text": "当【枪手】弈子们攻击时，他们会获得额外攻击力，至多至8层。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "每层7%攻击力"
+            },
+            {
+                "level": "4",
+                "level_text": "每层12%攻击力"
+            },
+            {
+                "level": "6",
+                "level_text": "每层20%攻击力"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9007.png",
+        "synergy_name": "神谕者",
+        "synergy_text": "所有友军每3秒回复法力值。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "所有友军回复5法力值"
+            },
+            {
+                "level": "4",
+                "level_text": "并且【神谕者】们回复额外的10法力值"
+            },
+            {
+                "level": "6",
+                "level_text": "所有友军回复10法力值并且【神谕者】们回复额外的15法力值"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9008.png",
+        "synergy_name": "主宰",
+        "synergy_text": "【主宰】弈子们会随着生命值的降低而获得伤害减免。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "15%至25%伤害减免"
+            },
+            {
+                "level": "4",
+                "level_text": "25%至35%伤害减免"
+            },
+            {
+                "level": "6",
+                "level_text": "35%至50%伤害减免"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9009.png",
+        "synergy_name": "术士",
+        "synergy_text": "【术士】们在施放其技能时会进行多重施放，除第一次之外的所有施放都会被削减效能。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "1次额外施放；40%效能削减"
+            },
+            {
+                "level": "4",
+                "level_text": "2次额外施放；40%效能削减"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9012.png",
+        "synergy_name": "潜行者",
+        "synergy_text": "(2) 【潜行者】们在生命值首次降至50%以下时会短暂进入不可被选取状态并且冲向3格内相距最远的那名敌人，优先选择后排弈子。 (4) 此外，在首次攻击一名敌人时会使该敌人流血，在5秒里持续造成目标50%最大生命值的魔法伤害。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "在一名【潜行者】降至50%生命值时，该弈子会短暂变为不可被选取状态并冲刺到4格内的一名敌人处(优先选择敌方后排)。"
+            },
+            {
+                "level": "4",
+                "level_text": "此外，一名【潜行者】对一个敌人进行的第一次攻击会对该敌人施加流血效果，在6秒里持续造成该敌人30%最大生命值的魔法伤害。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9013.png",
+        "synergy_name": "裁决战士",
+        "synergy_text": "【裁决战士】们获得15%的全能吸血。【裁决战士】们造成额外伤害，这个额外伤害对低于60%生命值的单位们翻倍。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "+5%额外伤害"
+            },
+            {
+                "level": "3",
+                "level_text": "+10%额外伤害"
+            },
+            {
+                "level": "4",
+                "level_text": "+20%额外伤害"
+            },
+            {
+                "level": "5",
+                "level_text": "+30%额外伤害"
+            },
+            {
+                "level": "6",
+                "level_text": "+40%额外伤害"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9014.png",
+        "synergy_name": "法师",
+        "synergy_text": "每当一名【法师】参与击杀了一个敌人后，就会触发一次奥术冲击，来对附近的敌人们造成相当于该阵亡敌人一部分最大生命值的魔法伤害。【法师】们还会获得额外法术强度。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "获得25法术强度；冲击1个敌人，造成10%生命值伤害"
+            },
+            {
+                "level": "4",
+                "level_text": "获得50法术强度；冲击1个敌人，造成10%生命值伤害"
+            },
+            {
+                "level": "6",
+                "level_text": "获得80法术强度；冲击2个敌人，造成12%生命值伤害"
+            },
+            {
+                "level": "8",
+                "level_text": "获得120法术强度；冲击2个敌人，造成20%生命值伤害"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9015.png",
+        "synergy_name": "司令",
+        "synergy_text": "战斗开始时：前2排的友军们获得持续8秒的护盾值。后2排的友军们获得法术强度。",
+        "levels": [
+            {
+                "level": "2",
+                "level_text": "200护盾值；20法术强度"
+            },
+            {
+                "level": "4",
+                "level_text": "400护盾值；35法术强度"
+            },
+            {
+                "level": "6",
+                "level_text": "600护盾值；50法强"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9016.png",
+        "synergy_name": "大发明家",
+        "synergy_text": "获得一个可用的【尖端炮台】。【黑默丁格】将在你的商店中提供针对【尖端炮台】的多项升级，售价为6金币。你总共可购买至多3次升级。",
+        "levels": [
+            {
+                "level": "1",
+                "level_text": "获得一个可用的【尖端炮台】。【黑默丁格】将在你的商店中提供针对【尖端炮台】的多项升级，售价为6金币。你总共可购买至多3次升级。"
+            }
+        ]
+    },
+    {
+        "synergy_icon": "https://game.gtimg.cn/images/lol/act/img/tft/classes/9017.png",
+        "synergy_name": "流浪法师",
+        "synergy_text": "瑞兹的法术会根据玩家在游戏开始时投票选出的区域传送门而变化。",
+        "levels": [
+            {
+                "level": "1",
+                "level_text": "瑞兹的法术会根据玩家在游戏开始时投票选出的区域传送门而变化。"
+            }
+        ]
+    }
+]
