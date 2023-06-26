@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 from domain.CustomerEncoder import CustomerEncoder
 from domain.common import URL
-from domain.hex import Hex, HexComponent, GalaxyHex, GalaxyHexItem
+from domain.hex import GalaxyHex, GalaxyHexItem
 from domain.utils import download_photo
 
 
