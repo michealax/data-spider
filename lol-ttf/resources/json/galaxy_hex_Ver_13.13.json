@@ -1,0 +1,188 @@
+[
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Targon.png",
+        "galaxy_hex_name": "巨神峰",
+        "galaxy_hex_items": [
+            {
+                "title": "峰顶",
+                "desc": "从第2阶段开始，每个阶段开始时会提供1个【次级英雄复制器】。在第5阶段及之后，转而提供1个【英雄复制器】。"
+            },
+            {
+                "title": "巨神主域",
+                "desc": "当你达到40生命值时，获得一个来自巨神峰诸神的赐福。"
+            },
+            {
+                "title": "癸亥玛吕寺",
+                "desc": "在阶段2-5和4-5时，提供1个【金铲铲冠冕】。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Freljord.png",
+        "galaxy_hex_name": "弗雷尔卓德",
+        "galaxy_hex_items": [
+            {
+                "title": "炉乡",
+                "desc": "在阶段4-5时，提供一个可消耗的【杰作升级】，它可让你的一件已携带的装备升级为该装备的光明版。"
+            },
+            {
+                "title": "奥恩的锻炉",
+                "desc": "在阶段2-5或阶段3-5时提供1个【奥恩装备锻造器】。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Demacia.png",
+        "galaxy_hex_name": "德玛西亚",
+        "galaxy_hex_items": [
+            {
+                "title": "光盾家族",
+                "desc": "在阶段2-1时提供1个强大的【德玛西亚王冠】。如果携带者阵亡，那么你会立刻输掉战斗。"
+            },
+            {
+                "title": "禁魔石森林",
+                "desc": "所有弈子的体型变大15%并且拥有150额外生命值。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Shurima.png",
+        "galaxy_hex_name": "恕瑞玛",
+        "galaxy_hex_items": [
+            {
+                "title": "督军宫殿",
+                "desc": "阶段4-7的PVE回合会被替换为一个宝库，可无限重随，每次重随花费2金币。"
+            },
+            {
+                "title": "移形流沙",
+                "desc": "在每个回合开始时，如果你的备战席上没有【装备拆卸器】，就会获得1个。"
+            },
+            {
+                "title": "恕瑞玛集市",
+                "desc": "基础装备选秀阶段的英雄们会携带2件（而非1件）基础装备。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_ShadowIsles.png",
+        "galaxy_hex_name": "暗影岛",
+        "galaxy_hex_items": [
+            {
+                "title": "锤石的圣所",
+                "desc": "在单位们阵亡时，有一定几率收集其灵魂。每收集50个灵魂，就会获得一个战利品法球，法球的价值受益于你已拥有的灵魂数。"
+            },
+            {
+                "title": "约里克的坟场",
+                "desc": "每有一名玩家淘汰出局时，所有玩家就会开启一个武器库，该武器库的选项是4件来自该淘汰玩家的成装。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_BandleCity.png",
+        "galaxy_hex_name": "班德尔城",
+        "galaxy_hex_items": [
+            {
+                "title": "迅捷蟹水潭",
+                "desc": "每个PVE回合都被替换为迅捷蟹（没错，包括小兵回合），迅捷蟹可提供额外战利品。"
+            },
+            {
+                "title": "悠米的飙速地带",
+                "desc": "与玩家的战斗回合在开始20秒（而非30秒）后就会进入超时环节。"
+            },
+            {
+                "title": "班德尔自助餐厅",
+                "desc": "在阶段2-1提供1个【金铲铲】。在备战阶段开始时，携带着【金铲铲】、纹章或【金铲铲冠冕】的弈子们会给相距最近的那名己方弈子投喂一个【魄罗佳肴】，来为其提供7永久生命值。弈子每携带一个装备就会投喂一个【魄罗佳肴】。"
+            },
+            {
+                "title": "约德尔配送门",
+                "desc": "在每个阶段的第1和第5回合，各提供一个高阶弈子。这个弈子的位阶基于当前阶段。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Piltover.png",
+        "galaxy_hex_name": "皮尔特沃夫",
+        "galaxy_hex_items": [
+            {
+                "title": "杰斯的武器工坊",
+                "desc": "这局游戏提供的所有强化符文都将是棱彩阶。"
+            },
+            {
+                "title": "皮城大学",
+                "desc": "这局游戏提供的第一个强化符文将是棱彩阶。"
+            },
+            {
+                "title": "静水监狱",
+                "desc": "这局游戏将不再提供强化符文。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Zaun.png",
+        "galaxy_hex_name": "祖安",
+        "galaxy_hex_items": [
+            {
+                "title": "戈拉斯克工业",
+                "desc": "每当你合出一件成装时，提供3金币。"
+            },
+            {
+                "title": "地沟",
+                "desc": "这局没有利息。作为替代，从阶段2-1开始，每回合获得3金币。"
+            },
+            {
+                "title": "黄道地库",
+                "desc": "你每次选择一个强化符文时，会获得4x你已有强化符文数的金币。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Ionia.png",
+        "galaxy_hex_name": "艾欧尼亚",
+        "galaxy_hex_items": [
+            {
+                "title": "幻梦池",
+                "desc": "在每个阶段开始时，提供一个非常适合你队伍的弈子！"
+            },
+            {
+                "title": "帝柳的树丛",
+                "desc": "在阶段2-1时，你备战席的一个栏位会变为树丛。放在其中的那个弈子会将其羁绊贡献到你的阵容中，如同该弈子已登场一样。"
+            },
+            {
+                "title": "普雷西典书库",
+                "desc": "在阶段3-5提供一个消耗品，你可将它放置在一个弈子上，以开启一个武器库，该武器库的选项由该弈子的各个羁绊的纹章组成。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Void.png",
+        "galaxy_hex_name": "虚空之地",
+        "galaxy_hex_items": [
+            {
+                "title": "淡紫之海",
+                "desc": "从阶段2-1开始，在每个选秀和PVE回合之后，一个虚空共生体就会感染棋盘上的一个格子。这个格子如果是在前2排则提供20%伤害减免，如果是在后2排则提供20%提升伤害。"
+            },
+            {
+                "title": "不稳定裂隙",
+                "desc": "提供一个不稳定的成装，会在每个回合弹出并变形成一件随机装备。"
+            },
+            {
+                "title": "地疝",
+                "desc": "旅行到一个当前未显示的随机位置。"
+            }
+        ]
+    },
+    {
+        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/RegionPortal/icon_Noxus.png",
+        "galaxy_hex_name": "诺克萨斯",
+        "galaxy_hex_items": [
+            {
+                "title": "诺克斯卡里亚角斗场",
+                "desc": "你每次拿到一个强化符文时，都会出现一个随机的【角斗场格】。放在【角斗场格】上面的弈子们会获得一件其能用的装备。"
+            },
+            {
+                "title": "不朽堡垒",
+                "desc": "在阶段2-1，提供一个可放置的战旗，它可在战斗开始时对邻格的所有弈子提供20%攻击速度和各弈子10%最大生命值的护盾值。"
+            }
+        ]
+    }
+]

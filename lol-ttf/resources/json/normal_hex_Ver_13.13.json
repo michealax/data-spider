@@ -1,0 +1,1267 @@
+[
+    {
+        "hex_level": "一级强化符文",
+        "hex_components": [
+            {
+                "hex_component_name": "纯天然 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190353HEX6486fb99bca06.png",
+                "hex_component_desc": "己方没有携带任何装备的弈子们，都会获得120生命值并且每秒回复其1%最大生命值。"
+            },
+            {
+                "hex_component_name": "组建大军",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531160718HEX64770036a1101.png",
+                "hex_component_desc": "提供1个【次级英雄复制器】。这在7个与玩家的战斗回合后会发生第二次。"
+            },
+            {
+                "hex_component_name": "壁垒卫士之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162402HEX6489792244ebd.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【壁垒卫士】。提供1个【卡萨丁】。"
+            },
+            {
+                "hex_component_name": "血红金币",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531160748HEX64770054b1c5c.png",
+                "hex_component_desc": "你的小小英雄每损失3生命值就提供1金币。"
+            },
+            {
+                "hex_component_name": "青铜门票",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531160814HEX6477006e373be.png",
+                "hex_component_desc": "每4次商店刷新提供一次免费的刷新。"
+            },
+            {
+                "hex_component_name": "格斗家之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162414HEX6489792e7a84c.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【格斗家】。提供1个【蔚】。"
+            },
+            {
+                "hex_component_name": "挑战者之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162427HEX6489793b524d9.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【挑战者】。提供1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "源计划巨块 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531160934HEX647700be93a6c.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得250生命值。"
+            },
+            {
+                "hex_component_name": "源计划血蛭 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161246HEX6477017e6bead.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得80生命值和13%全能吸血。"
+            },
+            {
+                "hex_component_name": "亡眼射手之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162444HEX6489794c9ac5e.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【亡眼射手】。提供1个【艾希】。"
+            },
+            {
+                "hex_component_name": "德玛西亚之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162502HEX6489795e71123.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【德玛西亚】。提供1个【】。"
+            },
+            {
+                "hex_component_name": "枪手之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230624205914HEX6496e8a2ad86e.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【枪手】。提供1个【金克丝】。"
+            },
+            {
+                "hex_component_name": "药剂师 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161517HEX64770215411db.png",
+                "hex_component_desc": "你的单位们获得相当于其10%实际伤害值的治疗效果，并且会将20%的溢出治疗效果转化为下次攻击附带的真实伤害。"
+            },
+            {
+                "hex_component_name": "治疗法球 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161529HEX6477022181518.png",
+                "hex_component_desc": "在一名敌人阵亡时，相距最近的己方单位获得300治疗效果。"
+            },
+            {
+                "hex_component_name": "胜负看淡",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161546HEX64770232db020.png",
+                "hex_component_desc": "如果你的连胜或连败少于3回合，获得2金币。"
+            },
+            {
+                "hex_component_name": "神谕者之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162532HEX6489797c6d0c6.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【神谕者】。提供1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "艾欧尼亚之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162539HEX6489798341057.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【艾欧尼亚】。提供1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "黑铁资产",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162612HEX648979a46619d.png",
+                "hex_component_desc": "提供1个【基础装备锻造器】和2金币。"
+            },
+            {
+                "hex_component_name": "遗失的环节",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161643HEX6477026b0a413.png",
+                "hex_component_desc": "在你刷新商店40次之后，提供每个5阶英雄的1个弈子。"
+            },
+            {
+                "hex_component_name": "主宰之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162629HEX648979b5227cd.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【战神】。提供1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "天涯若比邻",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531161953HEX6477032936d4f.png",
+                "hex_component_desc": "在战斗环节开始时，你相距最远的那2个弈子分享彼此的20%护甲、魔抗、攻击速度和法术强度。"
+            },
+            {
+                "hex_component_name": "别再错过",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162017HEX64770341f3183.png",
+                "hex_component_desc": "提供每个1阶英雄的1个弈子。"
+            },
+            {
+                "hex_component_name": "诺克萨斯之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162653HEX648979cde6e6a.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【诺克萨斯】。提供1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "一，二，五！",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190422HEX6486fbb63ff4f.png",
+                "hex_component_desc": "提供1件随机基础装备，2金币和1个随机5阶弈子。"
+            },
+            {
+                "hex_component_name": "潘朵拉的备战席",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162125HEX64770385076fb.png",
+                "hex_component_desc": "提供2金币。每个回合开始时，处在备战席最右侧3个栏位的英雄们变为随机的同费用英雄。"
+            },
+            {
+                "hex_component_name": "变形重组器",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162226HEX647703c237f2f.png",
+                "hex_component_desc": "你棋盘上的弈子们会永久变形为一个比自身高1阶的随机弈子。提供2个【装备拆卸器】。"
+            },
+            {
+                "hex_component_name": "红霸符",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162303HEX647703e7c471e.png",
+                "hex_component_desc": "你的弈子们的攻击会在5秒内造成相当于目标8%最大生命值的额外魔法伤害并使其受到的治疗效果降低50%。"
+            },
+            {
+                "hex_component_name": "冒险举动",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162434HEX6477044256463.png",
+                "hex_component_desc": "你的小小英雄损失20生命值，但会在7个与玩家的战斗回合后提供40金币。"
+            },
+            {
+                "hex_component_name": "潜行者之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162759HEX64897a0f706fe.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【潜行者】。提供1个【劫】。"
+            },
+            {
+                "hex_component_name": "暗影岛之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162829HEX64897a2df357d.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【暗影岛】。提供1个【佛耶戈】和1金币。"
+            },
+            {
+                "hex_component_name": "恕瑞玛之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162837HEX64897a35c1369.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【恕瑞玛】。提供1个【塔莉垭】。"
+            },
+            {
+                "hex_component_name": "银汤匙",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162523HEX64770473c452e.png",
+                "hex_component_desc": "提供12经验值。"
+            },
+            {
+                "hex_component_name": "裁决战士之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162846HEX64897a3e2b275.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【裁决战士】。提供1个【克烈】。"
+            },
+            {
+                "hex_component_name": "保持社交距离 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162557HEX647704955d969.png",
+                "hex_component_desc": "在战斗环节开始时，己方邻格内没有友军的弈子会获得12%攻击力和法术强度。"
+            },
+            {
+                "hex_component_name": "法师之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162854HEX64897a4681e0c.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【法师】。提供1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "基础装备自助餐",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163131HEX64897ae3d1d24.png",
+                "hex_component_desc": "每当你将要获得一件随机的基础装备时，会转而提供一个随机的基础装备。"
+            },
+            {
+                "hex_component_name": "联合抵抗 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163029HEX647705a5233d7.png",
+                "hex_component_desc": "战斗开始时：你的那些与至少3个其他单位处在同一排的单位们会获得20护甲和20魔抗。"
+            },
+            {
+                "hex_component_name": "轻装上阵 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162957HEX64770585ac8dd.png",
+                "hex_component_desc": "己方没有携带任何装备的弈子们，都会获得30%攻击速度。"
+            },
+            {
+                "hex_component_name": "不拘一格",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163059HEX647705c304b95.png",
+                "hex_component_desc": "你在选秀回合中总能自由移动。"
+            },
+            {
+                "hex_component_name": "祖安之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162923HEX64897a637e48d.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【祖安】。提供1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "升星之运",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163248HEX647706302f2c5.png",
+                "hex_component_desc": "每当你将一个弈子升星时，就会获得一次免费的商店刷新，每回合至多获得2次。"
+            },
+            {
+                "hex_component_name": "不屈意志",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230620105038HEX649113fedddc9.png",
+                "hex_component_desc": "你的弈子们在参与一次击杀后会摆脱所有负面效果并免疫控制效果6秒。"
+            },
+            {
+                "hex_component_name": "鲜血转换 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163224HEX64897b186316f.png",
+                "hex_component_desc": "你的弈子们获得20生命值，外加2x小小英雄已损失生命值的生命值。"
+            },
+            {
+                "hex_component_name": "后期专家",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162012HEX6489783c39808.png",
+                "hex_component_desc": "在你到达9级时，提供44金币。"
+            },
+            {
+                "hex_component_name": "节外生枝",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230613201245HEX64885d3dd9c3c.png",
+                "hex_component_desc": "获得1个随机【纹章】和1个【装备重铸器】。"
+            },
+            {
+                "hex_component_name": "游神的盟友",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614161937HEX64897819369a1.png",
+                "hex_component_desc": "在你到达6级时，获得一个2星3阶弈子。"
+            },
+            {
+                "hex_component_name": "走捷径",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614161914HEX648978022bd03.png",
+                "hex_component_desc": "升级所需的经验值减少3。你现在可以升到10级。"
+            },
+            {
+                "hex_component_name": "打气 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162033HEX64897852000a0.png",
+                "hex_component_desc": "你的弈子们获得8%攻击速度。每过1回合，这个数额提升0.5%。"
+            },
+            {
+                "hex_component_name": "超级加倍",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162048HEX648978603444e.png",
+                "hex_component_desc": "连胜和连败的金币奖励翻倍。"
+            },
+            {
+                "hex_component_name": "珍藏财宝 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162105HEX6489787132262.png",
+                "hex_component_desc": "接下来的2个回合在开始时都会获得一件随机的基础装备。"
+            },
+            {
+                "hex_component_name": "潘朵拉的装备",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162127HEX64897887de491.png",
+                "hex_component_desc": "获得1件随机基础装备。回合开始时：你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+            },
+            {
+                "hex_component_name": "战争财宝 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162153HEX648978a14a765.png",
+                "hex_component_desc": "在你击杀一名敌方单位时，有25%几率掉落战利品。"
+            },
+            {
+                "hex_component_name": "一二二三",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162209HEX648978b12edc2.png",
+                "hex_component_desc": "获得1个1阶弈子，2个2阶弈子和1个3阶弈子。"
+            },
+            {
+                "hex_component_name": "休眠锻炉",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162226HEX648978c24d779.png",
+                "hex_component_desc": "在8个与玩家的战斗回合后，获得1个【奥恩装备锻造器】。"
+            },
+            {
+                "hex_component_name": "开摆",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162244HEX648978d41eccd.png",
+                "hex_component_desc": "你在接下来的3回合里无法采取任何行动。在此之后，获得18金币。"
+            },
+            {
+                "hex_component_name": "小巨人",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162258HEX648978e22149e.png",
+                "hex_component_desc": "你的小小英雄回复30生命值、变得更大并且拥有130最大生命值。"
+            },
+            {
+                "hex_component_name": "珠光莲花 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614162321HEX648978f985a00.png",
+                "hex_component_desc": "战斗开始时：你最强大的那个弈子获得50%暴击几率并且其技能可以暴击。"
+            }
+        ]
+    },
+    {
+        "hex_level": "二级强化符文",
+        "hex_components": [
+            {
+                "hex_component_name": "弗雷尔卓德之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625103504HEX6497a7d818af5.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【弗雷尔卓德】。提供1个【艾希】。"
+            },
+            {
+                "hex_component_name": "皮尔特沃夫之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163036HEX64897aaccccdc.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【皮尔特沃夫】。提供1个【蔚】。"
+            },
+            {
+                "hex_component_name": "司令之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163104HEX64897ac80f693.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【司令】。提供1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "巨神峰之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163114HEX64897ad224f0a.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【巨神峰】。提供1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "虚空之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625103722HEX6497a86259033.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【虚空】。提供1个【卡萨丁】。"
+            },
+            {
+                "hex_component_name": "刀下取金",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163509HEX647706bdcbae1.png",
+                "hex_component_desc": "提供1个【死亡之刃】。携带了【死亡之刃】的弈子们在击杀时有40%几率掉落1金币。"
+            },
+            {
+                "hex_component_name": "肾上腺激素",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163535HEX647706d75bc25.png",
+                "hex_component_desc": "你的【主宰】们造成10%额外伤害，这个加成会在生命值跌到50%以下时提升至25%，持续到战斗环节结束为止。提供1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "纯天然 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163554HEX647706ea980fc.png",
+                "hex_component_desc": "己方没有携带任何装备的弈子们，都会获得150生命值并且每秒回复其2%最大生命值。"
+            },
+            {
+                "hex_component_name": "闪若金鳞",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163612HEX647706fcc80ac.png",
+                "hex_component_desc": "提供1个【金鳞龙】武器库，拥有2个选项。【金鳞龙】装备有助于提供金币。"
+            },
+            {
+                "hex_component_name": "堡垒卫士之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163454HEX64897bae8fa0d.png",
+                "hex_component_desc": "获得1个【堡垒卫士纹章】和1个【卡萨丁】。"
+            },
+            {
+                "hex_component_name": "防御型冲刺",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612223857HEX64872e01d7be0.png",
+                "hex_component_desc": "你的【挑战者】们获得20护甲和魔抗，并在参与一次击杀后使这个加成翻倍2.5秒。提供1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "卓尔不群 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163722HEX647707422d9a8.png",
+                "hex_component_desc": "你的弈子们只要不具有任何已激活的羁绊，就会获得190-355生命值和30-50%攻击速度(基于当前阶段)。"
+            },
+            {
+                "hex_component_name": "多变锻炉",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163737HEX647707513bc8d.png",
+                "hex_component_desc": "提供1件【铁匠手套】，它每回合都会提供2件临时的奥恩宝物。"
+            },
+            {
+                "hex_component_name": "挑战者之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163506HEX64897bba94723.png",
+                "hex_component_desc": "提供1个【挑战者纹章】 和1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "爱心祷言",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190615HEX6486fc2702ca9.png",
+                "hex_component_desc": "每当你的【神谕者】施放其技能时，你的弈子们都会获得持续到战斗结束的2.5%法术强度。提供1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "炼金科技义体",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531163833HEX647707899e1be.png",
+                "hex_component_desc": "你携带了【炼金改件】的弈子们获得500生命值。在战斗开始时，这些弈子们的邻格友军们获得100生命值。提供1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "减益传播",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190553HEX6486fc115dec8.png",
+                "hex_component_desc": "在战斗开始时，生命值最高的那名敌方单位会被施加可传播的减益效果，使其所受伤害提升20%。在阵亡时，这个减益会传播至相距最近的2个敌人。这个减益可以叠加。"
+            },
+            {
+                "hex_component_name": "格斗家之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163515HEX64897bc303585.png",
+                "hex_component_desc": "提供1个【格斗家纹章】 和1个【蔚】。"
+            },
+            {
+                "hex_component_name": "源计划巨块 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190636HEX6486fc3c7f3de.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得300生命值。"
+            },
+            {
+                "hex_component_name": "源计划血蛭 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164136HEX64770840b3fbb.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得120生命值和20%全能吸血。"
+            },
+            {
+                "hex_component_name": "亡眼射手之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163616HEX64897c002fc50.png",
+                "hex_component_desc": "提供1个【亡眼射手纹章】和1个【艾希】。"
+            },
+            {
+                "hex_component_name": "德玛西亚之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625104001HEX6497a901a7a1a.png",
+                "hex_component_desc": "提供1个【德玛西亚纹章】和1个【加里奥】。"
+            },
+            {
+                "hex_component_name": "恶魔耀光",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164229HEX64770875add2a.png",
+                "hex_component_desc": "提供1个【斯维因】。你最强大的那个【斯维因】每拥有100最大生命值就会造成3%提升伤害。"
+            },
+            {
+                "hex_component_name": "好事成双 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164252HEX6477088c34124.png",
+                "hex_component_desc": "如果你恰好登场了相同的2个弈子，那么他们都会获得30%攻击力和30法术强度、护甲和魔抗。当你将弈子升到3星时，获得该英雄的1个2星弈子。"
+            },
+            {
+                "hex_component_name": "早期教育",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164309HEX6477089dc8cf5.png",
+                "hex_component_desc": "你的弈子们在每次击杀一名敌人后，会永久获得1法术强度。弈子们开始时拥有15额外法术强度。"
+            },
+            {
+                "hex_component_name": "耐久训练",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164349HEX647708c5ddb6b.png",
+                "hex_component_desc": "你的弈子们在每次击杀一名敌人后，会永久获得15生命值。弈子们开始时拥有100额外生命值。"
+            },
+            {
+                "hex_component_name": "主打一个陪伴",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164407HEX647708d73980a.png",
+                "hex_component_desc": "提供1个【训练假人】。每个回合，如果它在战斗中幸存下来，就会提供2金币。"
+            },
+            {
+                "hex_component_name": "参天巨人的坚决",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164547HEX6477093bdcc3f.png",
+                "hex_component_desc": "提供1件【泰坦的坚决】。你的所有【泰坦的坚决】都可以叠至40层，而非25层。"
+            },
+            {
+                "hex_component_name": "冰川微风",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164610HEX64770952c929d.png",
+                "hex_component_desc": "当你的【弗雷尔卓德风暴】来袭时，你的弈子们都会获得相当于自身15%最大生命值的护盾与20%攻击速度。提供1个【艾希】。"
+            },
+            {
+                "hex_component_name": "枪手之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163634HEX64897c12dc97b.png",
+                "hex_component_desc": "提供1个【枪手纹章】和1个【金克丝】。"
+            },
+            {
+                "hex_component_name": "药剂师 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164641HEX64770971c0aa3.png",
+                "hex_component_desc": "你的单位们获得相当于其15%实际伤害值的治疗效果，并且会将25%的溢出治疗效果转化为下次攻击附带的真实伤害。"
+            },
+            {
+                "hex_component_name": "阴森甲壳",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164729HEX647709a1ca665.png",
+                "hex_component_desc": "当你的【暗影岛】羁绊处于激活状态时，你的弈子们会获得10护甲和魔抗。你在这场战斗中每阵亡一个己方弈子，这个加成就会提升5。提供1个【佛耶戈】。"
+            },
+            {
+                "hex_component_name": "治疗法球 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164742HEX647709ae905ca.png",
+                "hex_component_desc": "在一名敌人阵亡时，相距最近的己方单位获得500治疗效果。"
+            },
+            {
+                "hex_component_name": "理想主义",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164757HEX647709bdcc570.png",
+                "hex_component_desc": "提供1个【正义之手】。携带了【正义之手】的英雄们造成13%提升伤害。"
+            },
+            {
+                "hex_component_name": "极客发明",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625104055HEX6497a937b295b.png",
+                "hex_component_desc": "在战斗环节开始时，由你的弈子们携带的最多4件基础装备将变为成装，持续到战斗环节结束为止。在接下来的1个阶段开始时，获得一件基础装备。"
+            },
+            {
+                "hex_component_name": "灌注",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531164917HEX64770a0d964a9.png",
+                "hex_component_desc": "你的弈子们每5秒回复20法力值。"
+            },
+            {
+                "hex_component_name": "神谕者之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163733HEX64897c4df3851.png",
+                "hex_component_desc": "提供1个【神谕者纹章】 和1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "艾欧尼亚之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163742HEX64897c56a6016.png",
+                "hex_component_desc": "提供1个【艾欧尼亚纹章】和1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "主宰之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163749HEX64897c5daf3d6.png",
+                "hex_component_desc": "提供1个【主宰纹章】 和1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "常客优惠",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612224035HEX64872e631b464.png",
+                "hex_component_desc": "在你刷新商店10次之后，你的刷新只需要1金币，持续到本场游戏结束为止。"
+            },
+            {
+                "hex_component_name": "了解你的敌人",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165230HEX64770acea2355.png",
+                "hex_component_desc": "在每回合的第一个敌人阵亡之后，你的弈子们造成25%提升伤害"
+            },
+            {
+                "hex_component_name": "书库卡片",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165246HEX64770aded488c.png",
+                "hex_component_desc": "获得1本【纹章之书】和1个【基础装备锻造器】。"
+            },
+            {
+                "hex_component_name": "背水一战",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165328HEX64770b0847e2d.png",
+                "hex_component_desc": "在你第一次被淘汰或被降到1生命值时，你会依然保持存活。在这个效果触发后，你的弈子们永久获得180生命值、18护甲和魔法抗性、以及18%全能吸血。"
+            },
+            {
+                "hex_component_name": "见贤思齐",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612190948HEX6486fcfc8df9e.png",
+                "hex_component_desc": "在备战阶段开始时，如果你的上一个对手的等级高于你，那么你会获得3.0经验值。如果等级等于或低于你，那么你会获得1金币。"
+            },
+            {
+                "hex_component_name": "天涯若比邻 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165409HEX64770b3161363.png",
+                "hex_component_desc": "战斗开始时：在战斗环节开始时，你相距最远的那2个单位分享彼此的30%护甲、魔抗、攻击力和法术强度。"
+            },
+            {
+                "hex_component_name": "法力燃烧",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165428HEX64770b4425a08.png",
+                "hex_component_desc": "提供1个【静止法衣】。所有敌人每秒受到相当于其2.5%最大生命值的魔法伤害，持续到其第一次施放技能为止。"
+            },
+            {
+                "hex_component_name": "殉道者",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165440HEX64770b50c0d14.png",
+                "hex_component_desc": "每当你的一个弈子阵亡时，所有己方弈子都会获得10%最大生命值的治疗效果。"
+            },
+            {
+                "hex_component_name": "中端购物",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163805HEX64897c6dd4345.png",
+                "hex_component_desc": "你的商店的前3个栏位会以比你当前等级高1级的几率来刷新英雄，提供3金币。"
+            },
+            {
+                "hex_component_name": "墨丘利之炮：过载运转",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191026HEX6486fd221656b.png",
+                "hex_component_desc": "提供1个【杰斯】。你最强大的那个【杰斯】在他的技能持续期间会将他的攻击替换成他的【电能激荡】。"
+            },
+            {
+                "hex_component_name": "洗钱",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191050HEX6486fd3a72c75.png",
+                "hex_component_desc": "你不会获得利息，但会在每个与玩家对战的回合开始时获得金币，你的备战席上每有2个弈子就会获得1金币。"
+            },
+            {
+                "hex_component_name": "晨曦",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165748HEX64770c0cc93db.png",
+                "hex_component_desc": "在你的【堡垒卫士】们的生命值跌到50%以下时，会在4秒里持续获得相当于其40%最大生命值的治疗效果。获得2个【堡垒卫士】弈子。"
+            },
+            {
+                "hex_component_name": "术士之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163830HEX64897c8635881.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【术士】。提供1个【塔莉垭】。"
+            },
+            {
+                "hex_component_name": "不是今天",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165911HEX64770c5f8ba44.png",
+                "hex_component_desc": "提供1件【夜之锋刃】。所有携带了【夜之锋刃】的己方弈子们获得35%攻击速度。"
+            },
+            {
+                "hex_component_name": "诺克萨斯之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163847HEX64897c97e7b1f.png",
+                "hex_component_desc": "提供1个【诺克萨斯纹章】 和1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "魔杖",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165944HEX64770c803c755.png",
+                "hex_component_desc": "获得1件【无用大棒】。你的弈子们获得20%法术强度。"
+            },
+            {
+                "hex_component_name": "过载的法力源泉",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170019HEX64770ca3a39b9.png",
+                "hex_component_desc": "战斗开始时：你的【法师】们获得10法力值。每个【法师】在每回合第一次参与击杀之后，会获得20法力值。提供1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "完美复颂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170053HEX64770cc54d353.png",
+                "hex_component_desc": "你的【术士】每次造成技能伤害时，就会获得持续到战斗结束的10%法术强度(最大值：60%)。获得2个【术士】。"
+            },
+            {
+                "hex_component_name": "皮尔特沃夫之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625104222HEX6497a98e3c56d.png",
+                "hex_component_desc": "提供1个【皮尔特沃夫纹章】和1个【蔚】。"
+            },
+            {
+                "hex_component_name": "贪欲猎手",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170210HEX64770d1277fb6.png",
+                "hex_component_desc": "提供1个【沃里克】。当你最强大的那个【沃里克】受到或造成伤害时，他获得6%攻击力和6法术强度、护甲和魔法抗性，至多可叠加50次。"
+            },
+            {
+                "hex_component_name": "投资回报",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163923HEX64897cbb4f4ab.png",
+                "hex_component_desc": "在你刷新商店22次之后，提供1个【金铲铲冠冕】。"
+            },
+            {
+                "hex_component_name": "利滚利加强版",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170301HEX64770d45ec45c.png",
+                "hex_component_desc": "提供20金币。你的最大利息提升至7。"
+            },
+            {
+                "hex_component_name": "虚空行走",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170343HEX64770d6f619d1.png",
+                "hex_component_desc": "在施放技能之前，你最强大的那个【卡萨丁】获得10法术强度并闪烁至3格内相距最远的那名敌人，但他的技能不再施加缴械效果。"
+            },
+            {
+                "hex_component_name": "潜行者之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163939HEX64897ccb82dba.png",
+                "hex_component_desc": "提供1个【潜行者纹章】和1个【劫】。"
+            },
+            {
+                "hex_component_name": "打捞桶",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170413HEX64770d8d44791.png",
+                "hex_component_desc": "立刻提供1件随机成装，并在7个对玩家的战斗环节之后提供1个基础装备。出售英雄会将其携带的成装拆分成基础装备(【金铲铲冠冕】除外)。"
+            },
+            {
+                "hex_component_name": "万用瞄准镜",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170430HEX64770d9e98476.png",
+                "hex_component_desc": "在战斗环节开始时，你后2排的弈子们会获得+2攻击距离和15%攻击速度。"
+            },
+            {
+                "hex_component_name": "光明哨兵之灵",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170451HEX64770db378eba.png",
+                "hex_component_desc": "在灵体形态下，你的【艾欧尼亚】弈子们获得15%攻击速度和相当于其20%最大生命值的护盾值。提供1个【瑟提】。"
+            },
+            {
+                "hex_component_name": "暗影岛之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170503HEX64770dbf28efa.png",
+                "hex_component_desc": "提供1个【暗影岛纹章】、1个【茂凯】和1金币。"
+            },
+            {
+                "hex_component_name": "金鳞发明家",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170525HEX64770dd5db907.png",
+                "hex_component_desc": "你每拥有10金币，你的【皮尔特沃夫】弈子们就会获得8%攻击速度(最大值：40%)，并且有40%几率在回合开始时掉落1金币。提供1个【蔚】。"
+            },
+            {
+                "hex_component_name": "边逛边拿",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170548HEX64770dec1de16.png",
+                "hex_component_desc": "在每次回合开始时，免费获得其中最高费的那个弈子。"
+            },
+            {
+                "hex_component_name": "恕瑞玛之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163958HEX64897cde3422c.png",
+                "hex_component_desc": "提供1个【恕瑞玛纹章】和1个【塔莉垭】。"
+            },
+            {
+                "hex_component_name": "恕瑞玛的传承",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170622HEX64770e0e75a41.png",
+                "hex_component_desc": "一旦组装好，你的【太阳圆盘】就会每2秒攻击敌人来造成150~750魔法伤害(基于当前阶段)。提供1个【塔莉垭】。"
+            },
+            {
+                "hex_component_name": "白银门票",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170639HEX64770e1f2fed5.png",
+                "hex_component_desc": "每当你的商店刷新时，你都有30%几率获得1次免费刷新。"
+            },
+            {
+                "hex_component_name": "裁决战士之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164026HEX64897cfa2d930.png",
+                "hex_component_desc": "提供1个【裁决战士纹章】和1个【克烈】。"
+            },
+            {
+                "hex_component_name": "裁决战士的坚决",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170712HEX64770e407b4c6.png",
+                "hex_component_desc": "在你的【裁决战士】们承受或造成伤害时，会获得3护甲和魔抗，持续到战斗环节结束为止(这个效果至多可叠加25次)。提供1个【克烈】。"
+            },
+            {
+                "hex_component_name": "行家里手",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170733HEX64770e555a27a.png",
+                "hex_component_desc": "提供1个【窃贼手套】。所有携带了【窃贼手套】的己方弈子们获得30%攻击速度。"
+            },
+            {
+                "hex_component_name": "保持社交距离 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170756HEX64770e6cb4464.png",
+                "hex_component_desc": "战斗开始时：己方邻格内没有友军的弈子会获得20%攻击力和法术强度。"
+            },
+            {
+                "hex_component_name": "法师之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164035HEX64897d03bc4fe.png",
+                "hex_component_desc": "提供1个【法师纹章】 和1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "枪斗术",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191207HEX6486fd878cfce.png",
+                "hex_component_desc": "你的【枪手】们获得10%攻击速度，外加2%x【枪手】层数的攻击速度。提供1个【崔丝塔娜】。"
+            },
+            {
+                "hex_component_name": "司令之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625104251HEX6497a9ab8e0b1.png",
+                "hex_component_desc": "提供1个【司令纹章】 和1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "天角的赐福",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170952HEX64770ee0a809b.png",
+                "hex_component_desc": "当你的【巨神峰】羁绊处于激活状态时，你的弈子们会在获得治疗或护盾后的4秒里获得45%攻击速度。提供1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "火力压制",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171018HEX64770efae29ae.png",
+                "hex_component_desc": "你的【亡眼射手】们共享攻击的那个目标还会被晕眩2秒。提供1个【艾希】。"
+            },
+            {
+                "hex_component_name": "战术优势",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171040HEX64770f101f1da.png",
+                "hex_component_desc": "你的弈子们会获得6%x你已激活羁绊数的攻击力和法术强度，这个加成会在你登场一名【司令】时翻倍。提供1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "巨神峰之心",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625104312HEX6497a9c069ff1.png",
+                "hex_component_desc": "提供1个【巨神峰纹章】和1个【索拉卡】。"
+            },
+            {
+                "hex_component_name": "霸王",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164117HEX64897d2db10fd.png",
+                "hex_component_desc": "提供1个【瑟提】。你最强大的那个【瑟提】在生命值首次跌到40%以下时，会离开战斗去做仰卧起坐。每次仰卧起坐可为他回复15%最大生命值并提供30%攻击速度和法术强度。"
+            },
+            {
+                "hex_component_name": "三费成众",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171214HEX64770f6edd1ae.png",
+                "hex_component_desc": "你的弈子们获得75x你已登场的3费弈子数的生命值。"
+            },
+            {
+                "hex_component_name": "三费小组",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171154HEX64770f5aabd49.png",
+                "hex_component_desc": "提供4个随机的3阶英雄。"
+            },
+            {
+                "hex_component_name": "成吨的属性！",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171301HEX64770f9d07656.png",
+                "hex_component_desc": "你的弈子们获得55生命值、5%攻击力、5法术强度、5护甲、5魔抗、5%攻击速度和5法力值。"
+            },
+            {
+                "hex_component_name": "泰坦之力",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164134HEX64897d3e209e3.png",
+                "hex_component_desc": "【格斗家】们获得相当于其1.5%最大生命值的攻击力。提供1个【雷克塞】。"
+            },
+            {
+                "hex_component_name": "全面称霸",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171337HEX64770fc1cc0c9.png",
+                "hex_component_desc": "你的【诺克萨斯】弈子们的攻击和技能会处决低于8%最大生命值的敌人们，你每征服了一名玩家，这个数额就会提升1%。获得3个【诺克萨斯】弈子。"
+            },
+            {
+                "hex_component_name": "二费活力",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171440HEX64771000779c0.png",
+                "hex_component_desc": "你的弈子们获得111x你已登场的2费弈子数的生命值。"
+            },
+            {
+                "hex_component_name": "联合抵抗 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171500HEX6477101474a73.png",
+                "hex_component_desc": "战斗开始时：你的那些与至少2个其他单位处在同一排的单位们会获得30护甲30魔抗。"
+            },
+            {
+                "hex_component_name": "轻装上阵 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171520HEX64771028c2d40.png",
+                "hex_component_desc": "己方没有携带任何装备的弈子们，都会获得55%攻击速度。"
+            },
+            {
+                "hex_component_name": "不稳定的约德尔配送",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171542HEX6477103e993f2.png",
+                "hex_component_desc": "回合开始时：提供1个随机的【约德尔人】或1~5金币(基于当前阶段)。提供1个【克烈】。"
+            },
+            {
+                "hex_component_name": "舔血刀口",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171601HEX647710512992c.png",
+                "hex_component_desc": "你的弈子们获得10%全能吸血。你的【潜行者】们获得25%全能吸血作为替代。提供1个【劫】。"
+            },
+            {
+                "hex_component_name": "虚空之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164151HEX64897d4fae216.png",
+                "hex_component_desc": "提供1个【虚空纹章】 和1个【虚空行者】。"
+            },
+            {
+                "hex_component_name": "快速孵化",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171719HEX6477109fd8c53.png",
+                "hex_component_desc": "你的【虚空】弈子们获得80x星级的生命值和8%x星级的攻击力与法术强度。获得3个【虚空】弈子。"
+            },
+            {
+                "hex_component_name": "在失败中变强",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191241HEX6486fda953bb2.png",
+                "hex_component_desc": "在你输掉战斗之后，提供2金币。每输掉5场战斗，提供1件随机基础装备。"
+            },
+            {
+                "hex_component_name": "战争罡风",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171756HEX647710c4c5afc.png",
+                "hex_component_desc": "获得1个【加里奥】。你最强大的那个【加里奥】的技能拥有更大范围，并且在命中敌人时还会每秒造成【加里奥】8%最大生命值的魔法伤害。"
+            },
+            {
+                "hex_component_name": "吾弓听命于您",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171837HEX647710ed5617a.png",
+                "hex_component_desc": "提供1个【反曲之弓】。你的单位们获得15%攻击速度。"
+            },
+            {
+                "hex_component_name": "吾剑听命于您",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171848HEX647710f87332a.png",
+                "hex_component_desc": "提供1个【暴风大剑】。你的单位们获得18%攻击力。"
+            },
+            {
+                "hex_component_name": "祖安之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164221HEX64897d6d0aa0f.png",
+                "hex_component_desc": "提供1个【祖安纹章】 和1个【沃里克】。"
+            },
+            {
+                "hex_component_name": "陨落赠礼",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191316HEX6486fdcc8942f.png",
+                "hex_component_desc": "你的弈子们获得4%攻击力、4法术强度、4护甲和4魔抗。每当你的一个单位阵亡时，你的所有单位就会再次获得这些属性。"
+            },
+            {
+                "hex_component_name": "施法即是防御",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230612191343HEX6486fde7662b1.png",
+                "hex_component_desc": "每当你的一个单位施放其技能时，该单位就会获得持续3秒的90/115/145/170护盾值(基于当前阶段)。"
+            },
+            {
+                "hex_component_name": "打气 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180744HEX648991706faa2.png",
+                "hex_component_desc": "你的弈子们获得10%攻击速度。每过1回合，这个数额提升1%。"
+            },
+            {
+                "hex_component_name": "花到上头",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180816HEX64899190e8a96.png",
+                "hex_component_desc": "如果在一个回合结束时，你拥有的金币少于20，就会获得2金币。"
+            },
+            {
+                "hex_component_name": "禁魔镣铐",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180830HEX6489919e7120b.png",
+                "hex_component_desc": "你的【德玛西亚】弈子们造成15%额外伤害，这个加成会在对抗【诺克萨斯】弈子和那些最大法力值在100或以上的弈子时提升至30%。获得3个【德玛西亚】弈子。"
+            },
+            {
+                "hex_component_name": "便携锻炉",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180844HEX648991ac548a1.png",
+                "hex_component_desc": "开启一个武器库，并从3件由奥恩打造的独特宝物之中选出1件。"
+            },
+            {
+                "hex_component_name": "古代档案 I",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180857HEX648991b9b7a3d.png",
+                "hex_component_desc": "提供1个【纹章之书】和3金币。"
+            },
+            {
+                "hex_component_name": "耐心学习",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180913HEX648991c90b279.png",
+                "hex_component_desc": "在与玩家的战斗后，如果你赢了则获得2经验，如果你输了则获得3经验。你现在可以升到10级。"
+            },
+            {
+                "hex_component_name": "鲜血转换 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180928HEX648991d8e86fe.png",
+                "hex_component_desc": "你的弈子们获得80生命值，外加3x小小英雄已损失生命值的生命值。"
+            },
+            {
+                "hex_component_name": "堡垒卫士之徽",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180942HEX648991e6419a1.png",
+                "hex_component_desc": "获得1个【堡垒卫士纹章】和1个【卡萨丁】。"
+            },
+            {
+                "hex_component_name": "奉献",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614180955HEX648991f3342a1.png",
+                "hex_component_desc": "在与玩家的战斗中，如果你首次登场了同一羁绊的至少5个不同的弈子，就会获得该羁绊的一个纹章。"
+            },
+            {
+                "hex_component_name": "DD街区",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181008HEX64899200f2495.png",
+                "hex_component_desc": "每回合提供1次免费的商店刷新，并提供2金币。"
+            },
+            {
+                "hex_component_name": "天生二星",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181023HEX6489920f41212.png",
+                "hex_component_desc": "你购买的第1个1阶弈子和2阶弈子都会升至2星，并提供3金币。"
+            },
+            {
+                "hex_component_name": "代谢增速器",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181038HEX6489921e53520.png",
+                "hex_component_desc": "你的小小英雄移动得更快并会在1个PVP回合后恢复2生命值。"
+            },
+            {
+                "hex_component_name": "利滚利",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181054HEX6489922e396cf.png",
+                "hex_component_desc": "提供12金币。你的最大利息提升至7。"
+            },
+            {
+                "hex_component_name": "珠光莲花 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181110HEX6489923e0360c.png",
+                "hex_component_desc": "你的单位们的技能可以造成暴击。你的单位获得15%暴击几率。"
+            },
+            {
+                "hex_component_name": "游神的眷顾",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181124HEX6489924c972eb.png",
+                "hex_component_desc": "在你达到5级、6级、7级和8级时获得1个【基础装备锻造器】"
+            },
+            {
+                "hex_component_name": "珍藏财宝 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181138HEX6489925a2b90d.png",
+                "hex_component_desc": "接下来的3个回合在开始时都会获得一件随机的基础装备。"
+            },
+            {
+                "hex_component_name": "潘朵拉的装备 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181151HEX64899267ed957.png",
+                "hex_component_desc": "获得1件随机成装。回合开始时：你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+            },
+            {
+                "hex_component_name": "打捞桶",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181206HEX648992769cb54.png",
+                "hex_component_desc": "立刻提供1件随机成装，并在7个对玩家的战斗环节之后提供1个基础装备。出售英雄会将其携带的成装拆分成基础装备(【金铲铲冠冕】除外)。"
+            },
+            {
+                "hex_component_name": "战争财宝 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181222HEX64899286a30c8.png",
+                "hex_component_desc": "在你击杀一名敌方单位时，有35%几率掉落战利品。"
+            }
+        ]
+    },
+    {
+        "hex_level": "三级强化符文",
+        "hex_components": [
+            {
+                "hex_component_name": "多多益善",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602191724HEX6479cfc4e981e.png",
+                "hex_component_desc": "你的队伍规模提升，数额为你的一半等级数。你的弈子们只能携带1件装备。提供2金币。"
+            },
+            {
+                "hex_component_name": "多多益善+",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602191730HEX6479cfca9b67b.png",
+                "hex_component_desc": "你的队伍规模提升，数额为你的一半等级数。你的弈子们只能携带1件装备。提供12金币。"
+            },
+            {
+                "hex_component_name": "堡垒卫士之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164453HEX64897e05a0b3c.png",
+                "hex_component_desc": "提供1个【堡垒卫士纹章】、1件【钢铁烈阳之匣】和1个【塔里克】。"
+            },
+            {
+                "hex_component_name": "二进制空投",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173551HEX6479b7f70e4cd.png",
+                "hex_component_desc": "在战斗环节开始时，己方携带了2件装备或基础装备的英雄们会获得1件随机的临时成装。提供1件随机基础装备。"
+            },
+            {
+                "hex_component_name": "生日礼物",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173614HEX6479b80ee75f4.png",
+                "hex_component_desc": "在你每次升级时提供1个2星英雄和1金币。这个英雄的位阶是你的等级减4(最小值为1阶)。"
+            },
+            {
+                "hex_component_name": "格斗家之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164502HEX64897e0eaf764.png",
+                "hex_component_desc": "提供1个【格斗家纹章】、1个【狂徒铠甲】和1个【雷克塞】。"
+            },
+            {
+                "hex_component_name": "卓尔不群 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173801HEX6479b879bb1a6.png",
+                "hex_component_desc": "你的弈子们只要不具有任何已激活的羁绊，就会获得250.0-600.0生命值和35/40/45/55%攻击速度(基于当前阶段)。"
+            },
+            {
+                "hex_component_name": "挑战者之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164512HEX64897e186f917.png",
+                "hex_component_desc": "提供1个【挑战者纹章】、1个【疾射火炮】和1个【卡莉丝塔】。"
+            },
+            {
+                "hex_component_name": "恶魔契约",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173912HEX6479b8c0a99ab.png",
+                "hex_component_desc": "购买经验值消耗6生命值而非金币。在每个与玩家的战斗环节之前治疗3生命值。"
+            },
+            {
+                "hex_component_name": "源计划巨块 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173954HEX6479b8eaef6ba.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得425生命值。"
+            },
+            {
+                "hex_component_name": "源计划血蛭 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174020HEX6479b9046090e.png",
+                "hex_component_desc": "你的弈子只要携带了1件装备，就会获得200生命值和25%全能吸血。"
+            },
+            {
+                "hex_component_name": "亡眼射手之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164521HEX64897e212ae9e.png",
+                "hex_component_desc": "提供1个【亡眼射手纹章】 、1个【鬼索的狂暴之刃】和1个【阿克尚】。"
+            },
+            {
+                "hex_component_name": "德玛西亚之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164533HEX64897e2d1449d.png",
+                "hex_component_desc": "提供1个【德玛西亚纹章】、1个【石像鬼石板甲】和1个【盖伦】。"
+            },
+            {
+                "hex_component_name": "好事成双 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174134HEX6479b94e79607.png",
+                "hex_component_desc": "如果你恰好登场了相同的2个弈子，那么他们都会获得40%攻击力和40法术强度、护甲和魔抗。当你将弈子升到3星时，获得该英雄的1个2星弈子。"
+            },
+            {
+                "hex_component_name": "最后储备",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174330HEX6479b9c240966.png",
+                "hex_component_desc": "在你第一次被淘汰或被降到1生命值时，你会依然保持存活。在这个效果触发后，获得80经验值和40金币。"
+            },
+            {
+                "hex_component_name": "弗雷尔卓德之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164605HEX64897e4d293cb.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【弗雷尔卓德】。获得1个【大天使之杖】和1个【丽桑卓】。"
+            },
+            {
+                "hex_component_name": "好礼天降",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174723HEX6479baab1af76.png",
+                "hex_component_desc": "在战斗开始时，你携带了最少装备的那个英雄获得5件临时成装。"
+            },
+            {
+                "hex_component_name": "黄金门票",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174751HEX6479bac800900.png",
+                "hex_component_desc": "每当你的商店刷新时，你都有50%几率获得1次免费刷新。"
+            },
+            {
+                "hex_component_name": "枪手之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164640HEX64897e70cd50b.png",
+                "hex_component_desc": "提供1个【枪手纹章】、1个【卢安娜的飓风】和1个【杰斯】。"
+            },
+            {
+                "hex_component_name": "药剂师 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174834HEX6479baf23c77a.png",
+                "hex_component_desc": "你的单位们获得相当于其25%实际伤害值的治疗效果，并且会将30%的溢出治疗效果转化为下次攻击附带的真实伤害。"
+            },
+            {
+                "hex_component_name": "对冲基金+",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174954HEX6479bb428ee24.png",
+                "hex_component_desc": "你的利息没有上限。提供32金币。"
+            },
+            {
+                "hex_component_name": "对冲基金++",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602175000HEX6479bb48ac4c6.png",
+                "hex_component_desc": "你的利息没有上限。提供44金币。"
+            },
+            {
+                "hex_component_name": "神谕者之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164655HEX64897e7f3ffd3.png",
+                "hex_component_desc": "提供1个【神谕者纹章】 、1个【灭世者的死亡之帽,】和1个【卡尔玛】。"
+            },
+            {
+                "hex_component_name": "艾欧尼亚之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164703HEX64897e871d901.png",
+                "hex_component_desc": "提供1个【艾欧尼亚纹章】、1个【离子火花】和1个【卡尔玛】。"
+            },
+            {
+                "hex_component_name": "孤身上路很危险",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602185928HEX6479cb90afe5d.png",
+                "hex_component_desc": "当一个单位阵亡时，该单位会将其一件装备的一个临时复制品传递给相距最近且拥有空白装备栏的己方弈子。提供1件随机基础装备。"
+            },
+            {
+                "hex_component_name": "主宰之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164715HEX64897e930d0f4.png",
+                "hex_component_desc": "提供1个【主宰纹章】、1个【泰坦的坚决】 和1个【德莱厄斯】。"
+            },
+            {
+                "hex_component_name": "升级咯！",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602175320HEX6479bc101a5ca.png",
+                "hex_component_desc": "在你购买经验值的时候，获得额外的3经验值。立刻获得4经验值。你现在可以升到10级。"
+            },
+            {
+                "hex_component_name": "幸运手套",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602185442HEX6479ca72a6ed4.png",
+                "hex_component_desc": "【窃贼手套】总会为你的弈子们提供理想的装备。提供2个【拳套】。"
+            },
+            {
+                "hex_component_name": "前进之路",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602185501HEX6479ca8530595.png",
+                "hex_component_desc": "立即提供3经验值。在每个与玩家对战的回合开始时提供与你的等级数相等的额外经验值。你不再能够用金币购买经验值。"
+            },
+            {
+                "hex_component_name": "金治百病",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602191355HEX6479cef3dded0.png",
+                "hex_component_desc": "在每个回合开始时，如果你有至少50金币，那么你的小小英雄会回复3生命值。每回合提供3金币。"
+            },
+            {
+                "hex_component_name": "术士之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164749HEX64897eb525841.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【术士】。提供1个【珠光护手】和1个【维克兹】。"
+            },
+            {
+                "hex_component_name": "诺克萨斯之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164757HEX64897ebd69dfe.png",
+                "hex_component_desc": "提供1个【诺克萨斯纹章】、1个【无尽之刃】 和1个【德莱厄斯】。"
+            },
+            {
+                "hex_component_name": "成吨的伤害",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602185953HEX6479cba9d0225.png",
+                "hex_component_desc": "提供2个【无尽之力】。"
+            },
+            {
+                "hex_component_name": "皮尔特沃夫之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164805HEX64897ec5db0bf.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【皮尔特沃夫】。获得1个【基克的先驱】 和1个【杰斯】。"
+            },
+            {
+                "hex_component_name": "光明圣物",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190228HEX6479cc4425399.png",
+                "hex_component_desc": "开启一个武器库，并从5件独特光明武器之中选出1件。"
+            },
+            {
+                "hex_component_name": "潜行者之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164816HEX64897ed0d81de.png",
+                "hex_component_desc": "提供1个【潜行者纹章】、1个【正义之手】和1个【卡特琳娜】。"
+            },
+            {
+                "hex_component_name": "孤注一掷",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190355HEX6479cc9bd5f65.png",
+                "hex_component_desc": "提供1个光明版【窃贼手套】。"
+            },
+            {
+                "hex_component_name": "暗影岛之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164853HEX64897ef5d60d5.png",
+                "hex_component_desc": "提供1个【暗影岛纹章】 、1个【斯塔缇克电刃】和1个【卡莉丝塔】。"
+            },
+            {
+                "hex_component_name": "恕瑞玛之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164901HEX64897efdd3204.png",
+                "hex_component_desc": "提供1个【恕瑞玛纹章】、1个【饮血剑】和1个【阿克尚】。"
+            },
+            {
+                "hex_component_name": "裁决战士之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164909HEX64897f053f977.png",
+                "hex_component_desc": "提供1个【裁决战士纹章】、1个【死亡之刃】和1个【克烈】。"
+            },
+            {
+                "hex_component_name": "社交距离 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190524HEX6479ccf48ae38.png",
+                "hex_component_desc": "在战斗环节开始时，己方邻格内没有友军的弈子会获得35%攻击力和法术强度。"
+            },
+            {
+                "hex_component_name": "法师之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164917HEX64897f0d01644.png",
+                "hex_component_desc": "提供1个【法师纹章】、1个【朔极之矛】和1个【维克兹】。"
+            },
+            {
+                "hex_component_name": "司令之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164942HEX64897f268fd90.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【司令】。获得1个【能量圣杯】 和1个【斯维因】。"
+            },
+            {
+                "hex_component_name": "弈士的利器",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190613HEX6479cd255b9f4.png",
+                "hex_component_desc": "提供2个【金铲铲】！"
+            },
+            {
+                "hex_component_name": "巨神峰之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164949HEX64897f2dc3531.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【巨神峰】。获得1个【救赎】和1个【塔里克】。"
+            },
+            {
+                "hex_component_name": "快速思考",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190657HEX6479cd5162e9a.png",
+                "hex_component_desc": "商店刷新是免费的，直到这个回合结束为止。羁绊和其它强化不会受益于这些免费刷新。提供3金币。"
+            },
+            {
+                "hex_component_name": "虚空之魂",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164958HEX64897f36953df.png",
+                "hex_component_desc": "你的队伍会被视为拥有1名额外的【虚空】。获得1个【兹若特传送门】和1个【雷克塞】。"
+            },
+            {
+                "hex_component_name": "漫游训练师",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602191423HEX6479cf0fb2af2.png",
+                "hex_component_desc": "获得1个【训练假人】。它会携带3个随机纹章并且这些纹章无法被移除。 提供4金币。"
+            },
+            {
+                "hex_component_name": "祖安之冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614165019HEX64897f4bb5dae.png",
+                "hex_component_desc": "提供1个【祖安纹章】、1个【破防者】和1个【艾克】。"
+            },
+            {
+                "hex_component_name": "对影成双 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230607144757HEX6480281d7c496.png",
+                "hex_component_desc": "获得由两个相同基础装备合成的2件随机成装，以及3金币。"
+            },
+            {
+                "hex_component_name": "潘朵拉的盒子",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181311HEX648992b7a6454.png",
+                "hex_component_desc": "获得1件随机光明武器。回合开始时：你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+            },
+            {
+                "hex_component_name": "最小巨人",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181324HEX648992c4b4990.png",
+                "hex_component_desc": "你的小小英雄变得又小又快，会在1个PVP回合后恢复2生命值，并且每回合提供2金币。"
+            },
+            {
+                "hex_component_name": "珠光莲花 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181337HEX648992d1aa2b5.png",
+                "hex_component_desc": "你的单位们的技能可以造成暴击。你的单位获得45%暴击几率。"
+            },
+            {
+                "hex_component_name": "金蛋",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181351HEX648992df8b2e3.png",
+                "hex_component_desc": "提供1个大金蛋，需要11个回合来孵化。玩家在战斗回合获胜后会使孵化计时器加速一个额外的回合。"
+            },
+            {
+                "hex_component_name": "不破壁垒",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181406HEX648992ee6a6e5.png",
+                "hex_component_desc": "获得1个【棘刺背心】和1个【巨龙之爪】。"
+            },
+            {
+                "hex_component_name": "大买特买",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181419HEX648992fb797c0.png",
+                "hex_component_desc": "每回合获得1金币。在你升级时，获得相当于你等级数的免费商店刷新，这些刷新可保留至后续回合使用。"
+            },
+            {
+                "hex_component_name": "打气 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181433HEX64899309a2b86.png",
+                "hex_component_desc": "你的弈子们获得10%攻击速度。每过1回合，这个数额提升2%。"
+            },
+            {
+                "hex_component_name": "诅咒冠冕",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181447HEX64899317f091e.png",
+                "hex_component_desc": "提供+2最大队伍规模，但玩家所受伤害提升100%。"
+            },
+            {
+                "hex_component_name": "对冲基金",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181502HEX6489932606720.png",
+                "hex_component_desc": "获得22金币。你的最大利息提升至10。"
+            },
+            {
+                "hex_component_name": "古代档案 II",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181515HEX64899333b8e4c.png",
+                "hex_component_desc": "提供2个【纹章之书】和5金币。"
+            },
+            {
+                "hex_component_name": "战争财宝 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181529HEX6489934152bb1.png",
+                "hex_component_desc": "在你击杀一名敌方单位时，有45%几率掉落令人惊异的战利品。"
+            },
+            {
+                "hex_component_name": "炫目之速",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181542HEX6489934e67b32.png",
+                "hex_component_desc": "获得1个【疾射火炮】和1个【鬼索的狂暴之刃】。"
+            },
+            {
+                "hex_component_name": "克敌双刃",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181555HEX6489935b6277e.png",
+                "hex_component_desc": "获得1个【死亡之刃】和1个【无尽之刃】。"
+            },
+            {
+                "hex_component_name": "活体锻炉",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181608HEX6489936898292.png",
+                "hex_component_desc": "立刻并且每与玩家战斗10个回合后，提供1个随机的【奥恩装备锻造器】。"
+            },
+            {
+                "hex_component_name": "成吨的伤害+",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181624HEX64899378155dc.png",
+                "hex_component_desc": "获得1个【无尽之力】。在3个与玩家的战斗回合后，获得另一个【无尽之力】。"
+            },
+            {
+                "hex_component_name": "游神的神选",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181638HEX64899387008b3.png",
+                "hex_component_desc": "在你达到4级时，获得1个【基础装备锻造器】。在6级时，获得1个【成装锻造器】。在8级时，开启一个武器库，并从5件独特光明武器之中选出1件。"
+            },
+            {
+                "hex_component_name": "入门套件",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181652HEX648993943abf0.png",
+                "hex_component_desc": "提供1个随机4阶弈子，和1个与该弈子拥有一个相同羁绊的2星1费弈子。在接下来的1个阶段，再次获得这个4阶弈子。"
+            },
+            {
+                "hex_component_name": "奥秘启封",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181705HEX648993a1d6787.png",
+                "hex_component_desc": "获得1个【珠光护手】和1个【灭世者的死亡之帽】。"
+            },
+            {
+                "hex_component_name": "炼狱合约",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181720HEX648993b072a9c.png",
+                "hex_component_desc": "你的最大等级为7级。获得85金币。"
+            },
+            {
+                "hex_component_name": "鲜血转换 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181805HEX648993dd1351e.png",
+                "hex_component_desc": "你的弈子们获得100生命值，外加5x小小英雄已损失生命值的生命值。"
+            },
+            {
+                "hex_component_name": "珍藏财宝 III",
+                "hex_component_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614181823HEX648993ef08125.png",
+                "hex_component_desc": "接下来的5个回合在开始时都会获得一件随机的基础装备。"
+            }
+        ]
+    }
+]

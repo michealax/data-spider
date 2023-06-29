@@ -1,0 +1,951 @@
+[
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Ornn.png",
+        "champion_hex_name": "奥恩 : 锻炉大师",
+        "champion_hex_desc": "获得奥恩造物的力量！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162005HEX647703351208a.png",
+                        "galaxy_hex_name": "休眠锻炉 (英雄传说之力)",
+                        "galaxy_hex_desc": "在7个与玩家的战斗回合后，提供1个【奥恩装备锻造器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170137HEX64770cf1e0294.png",
+                        "galaxy_hex_name": "便携锻炉 (英雄传说之力)",
+                        "galaxy_hex_desc": "开启一个武器库，并从件由奥恩打造的3件独特宝物之中选出1件。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602185154HEX6479c9ca53ab7.png",
+                        "galaxy_hex_name": "活体锻炉 (英雄传说之力)",
+                        "galaxy_hex_desc": "立刻并且每与玩家战斗10个回合后，提供1个随机的【奥恩神器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103255HEX647e9ad7ba231.png",
+                        "galaxy_hex_name": "中型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【成装锻造器】和10金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606102705HEX647e9979a95be.png",
+                        "galaxy_hex_name": "小型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【基础装备锻造器】和6金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103419HEX647e9b2bae557.png",
+                        "galaxy_hex_name": "大型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "获得1个【奥恩装备锻造器】和1个【基础装备锻造器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103721HEX647e9be1967fe.png",
+                        "galaxy_hex_name": "活干得不错（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【基础装备锻造器】和1个【成装锻造器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103843HEX647e9c333e7b5.png",
+                        "galaxy_hex_name": "完活（英雄传说之力）",
+                        "galaxy_hex_desc": "提供2个【基础装备锻造器】"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104052HEX647e9cb45cb5a.png",
+                        "galaxy_hex_name": "精湛作品（英雄传说之力）",
+                        "galaxy_hex_desc": "获得1个【奥恩装备锻造器】和1个【成装锻造器】。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_TahmKench.png",
+        "champion_hex_name": "塔姆 : 贪财大师",
+        "champion_hex_desc": "尽可能搞更多的金币！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170246HEX64770d367c440.png",
+                        "galaxy_hex_name": "利滚利 (英雄传说之力)",
+                        "galaxy_hex_desc": "提供12金币。你的最大利息提升至7。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602174920HEX6479bb20a274f.png",
+                        "galaxy_hex_name": "对冲基金 (英雄传说之力)",
+                        "galaxy_hex_desc": "你的利息没有上限。提供18金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602182823HEX6479c44731f33.png",
+                        "galaxy_hex_name": "开摆 (英雄传说之力)",
+                        "galaxy_hex_desc": "你在接下来的3回合里无法采取任何行动。在此之后，获得18金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104706HEX647e9e2a6df5c.png",
+                        "galaxy_hex_name": "平衡预算 I（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得5金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104807HEX647e9e674efbd.png",
+                        "galaxy_hex_name": "平衡预算 II（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得8金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104827HEX647e9e7ba87ae.png",
+                        "galaxy_hex_name": "平衡预算 III（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得12金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104920HEX647e9eb0cc9a7.png",
+                        "galaxy_hex_name": "钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "立刻提供12金币。4回合后，再次获得12金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104956HEX647e9ed4ec7e9.png",
+                        "galaxy_hex_name": "钱钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "获得20金币。4回合后，再次获得20金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105017HEX647e9ee9d4efa.png",
+                        "galaxy_hex_name": "钱钱钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "获得30金币。4回合后，再次获得30金币。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Veigar.png",
+        "champion_hex_name": "维迦 : 施法大师",
+        "champion_hex_desc": "用你的英雄们的技能造成大数字的伤害！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625111010HEX6497b0128be57.png",
+                        "galaxy_hex_name": "珠光莲花 I (英雄传说之力)",
+                        "galaxy_hex_desc": "战斗开始时：你最强大的那个弈子获得15%暴击几率并且其技能可以暴击。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614164327HEX64897daf7aa4c.png",
+                        "galaxy_hex_name": "珠光莲花 III (英雄传说之力)",
+                        "galaxy_hex_desc": "你的单位们的技能可以造成暴击。你的弈子们获得55%暴击几率。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163403HEX64897b7b7d110.png",
+                        "galaxy_hex_name": "珠光莲花 II(英雄传说之力)",
+                        "galaxy_hex_desc": "你的单位们的技能可以造成暴击。你的单位获得10%暴击几率。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105508HEX647ea00cb1dcd.png",
+                        "galaxy_hex_name": "小小之力 I（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们获得8%攻击力、法术强度和攻击速度。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105519HEX647ea017328ff.png",
+                        "galaxy_hex_name": "小小之力 II（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们获得11%攻击力、法术强度和攻击速度。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105528HEX647ea020cb36c.png",
+                        "galaxy_hex_name": "小小之力 III（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们获得18%攻击力、法术强度和攻击速度。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105646HEX647ea06ea5f1d.png",
+                        "galaxy_hex_name": "部分飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "在战斗环节开始15秒后，你的弈子们造成的伤害提升30%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105710HEX647ea086ba241.png",
+                        "galaxy_hex_name": "飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "在战斗环节开始15秒后，你的弈子们造成的伤害提升 45%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110035HEX647ea15396809.png",
+                        "galaxy_hex_name": "终极飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们多造成15%伤害。在15秒之后，这个效果提升至3倍。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Draven.png",
+        "champion_hex_name": "德莱文 : 处决大师",
+        "champion_hex_desc": "赢得大胜并且获得更大的回报！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162628HEX647704b4487eb.png",
+                        "galaxy_hex_name": "战争财宝 I (英雄传说之力)",
+                        "galaxy_hex_desc": "在你击杀一名敌方单位时，有25%几率掉落战利品。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170853HEX64770ea554b68.png",
+                        "galaxy_hex_name": "战争财宝 II (英雄传说之力)",
+                        "galaxy_hex_desc": "在你击杀一名敌方单位时，有35%几率掉落战利品。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190756HEX6479cd8c8d27d.png",
+                        "galaxy_hex_name": "战争财宝 III (英雄传说之力)",
+                        "galaxy_hex_desc": "在你击杀一名敌方单位时，有45%几率掉落令人惊奇的战利品。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104706HEX647e9e2a6df5c.png",
+                        "galaxy_hex_name": "平衡预算 I（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得5金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104807HEX647e9e674efbd.png",
+                        "galaxy_hex_name": "平衡预算 II（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得8金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104827HEX647e9e7ba87ae.png",
+                        "galaxy_hex_name": "平衡预算 III（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的4个回合在开始时都会获得12金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110321HEX647ea1f95f425.png",
+                        "galaxy_hex_name": "D个痛快！ I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得14次免费商店刷新，可保留至后续回合使用。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110345HEX647ea2110fd8e.png",
+                        "galaxy_hex_name": "D个痛快！ II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得21次免费商店刷新，可保留至后续回合使用。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110404HEX647ea224aa437.png",
+                        "galaxy_hex_name": "D个痛快！ III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得35次免费商店刷新，可保留至后续回合使用。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Pengu.png",
+        "champion_hex_name": "企鹅 : 小小英雄大师",
+        "champion_hex_desc": "安全行事！非常适合新手！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162815HEX6477051f5a45b.png",
+                        "galaxy_hex_name": "小巨人 (英雄传说之力)",
+                        "galaxy_hex_desc": "你的小小英雄回复30生命值、变得更大并且拥有130最大生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531165628HEX64770bbcf266f.png",
+                        "galaxy_hex_name": "代谢增速器 (英雄传说之力)",
+                        "galaxy_hex_desc": "你的小小英雄移动得更快并会在1个PVP回合后恢复2生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110453HEX647ea255748e3.png",
+                        "galaxy_hex_name": "最小巨人 (英雄传说之力)",
+                        "galaxy_hex_desc": "你的小小英雄变得又小又快，并会在1个PVP回合后恢复2生命值，并且每回合提供2金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110734HEX647ea2f68d4ae.PNG",
+                        "galaxy_hex_name": "百宝袋 I（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机成装"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110815HEX647ea31fecbe0.PNG",
+                        "galaxy_hex_name": "装备百宝袋 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得1件随机成装、1件随机基础装备和5金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110845HEX647ea33d183c6.PNG",
+                        "galaxy_hex_name": "装备百宝袋 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机成装和8金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230613100845HEX6487cfad41461.png",
+                        "galaxy_hex_name": "终极百宝袋 I（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机基础装备，15金币和1个【装备重铸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111038HEX647ea3aee9117.png",
+                        "galaxy_hex_name": "终极百宝袋 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、18金币和1个【装备拆卸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111103HEX647ea3c769a04.png",
+                        "galaxy_hex_name": "阿福的百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、1个【英雄复制器】和1个【金铲铲】。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Urf.png",
+        "champion_hex_name": "海牛阿福 : 纹章大师",
+        "champion_hex_desc": "献给那些喜爱纹章的玩家！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531160802HEX64770062406ae.png",
+                        "galaxy_hex_name": "节外生枝 (英雄传说之力)",
+                        "galaxy_hex_desc": "提供1个随机【纹章】和1个【装备重铸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602173356HEX6479b7843a05e.png",
+                        "galaxy_hex_name": "古代档案 II (英雄传说之力)",
+                        "galaxy_hex_desc": "提供2个【纹章之书】和8金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113937HEX647eaa796c8de.png",
+                        "galaxy_hex_name": "古代档案（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【纹章之书】和2金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111325HEX647ea455a5845.png",
+                        "galaxy_hex_name": "微小百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机基础装备，8金币和1个【装备拆卸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111359HEX647ea477bf76b.png",
+                        "galaxy_hex_name": "大百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、12金币和1个【装备重铸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111420HEX647ea48ce2e8a.png",
+                        "galaxy_hex_name": "巨大百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得3件随机基础装备、15金币和1个【次级英雄复制器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230613100845HEX6487cfad41461.png",
+                        "galaxy_hex_name": "终极百宝袋 I（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机基础装备，15金币和1个【装备重铸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111038HEX647ea3aee9117.png",
+                        "galaxy_hex_name": "终极百宝袋 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、18金币和1个【装备拆卸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111103HEX647ea3c769a04.png",
+                        "galaxy_hex_name": "阿福的百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、1个【英雄复制器】和1个【金铲铲】。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_AurelionSol.png",
+        "champion_hex_name": "奥瑞利安·索尔 : 远古大师",
+        "champion_hex_desc": "升到高等级并登场炫酷弈子！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114033HEX647eaab196d24.png",
+                        "galaxy_hex_name": "走捷径（英雄传说之力）",
+                        "galaxy_hex_desc": "升级所需的经验值减少4。你现在可以升到10级。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114053HEX647eaac5e664d.png",
+                        "galaxy_hex_name": "耐心学习（英雄传说之力）",
+                        "galaxy_hex_desc": "在与玩家的战斗后，如果你赢了则获得2经验，如果你输了则获得4经验。你现在可以升到10级。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114111HEX647eaad7eb195.png",
+                        "galaxy_hex_name": "升级咯！（英雄传说之力）",
+                        "galaxy_hex_desc": "在你购买经验值的时候，获得额外的3经验值。立刻获得4经验值。你现在可以升到10级。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112008HEX647ea5e8cdc47.png",
+                        "galaxy_hex_name": "知识下载 I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得16经验值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112035HEX647ea6033cf92.png",
+                        "galaxy_hex_name": "知识下载 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得24经验值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112055HEX647ea617d884d.png",
+                        "galaxy_hex_name": "知识下载 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得40经验值。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112207HEX647ea65f36df5.png",
+                        "galaxy_hex_name": "学有所成 I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得10经验值和10金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112217HEX647ea66932641.png",
+                        "galaxy_hex_name": "学有所成 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得18经验值和18金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112227HEX647ea673485af.png",
+                        "galaxy_hex_name": "学有所成 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得24经验值和24金币。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_MasterYi.png",
+        "champion_hex_name": "易 : 无极大师",
+        "champion_hex_desc": "每场战斗成长得越来越强！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112304HEX647ea69856f24.png",
+                        "galaxy_hex_name": "打气 I (英雄传说之力)",
+                        "galaxy_hex_desc": "你的单位们获得5%攻击速度。每过1回合，这个数额提升0.5%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112313HEX647ea6a12b170.png",
+                        "galaxy_hex_name": "打气 II (英雄传说之力)",
+                        "galaxy_hex_desc": "你的单位们获得5%攻击速度。每过1回合，这个数额提升1%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112322HEX647ea6aa1250c.png",
+                        "galaxy_hex_name": "打气 III (英雄传说之力)",
+                        "galaxy_hex_desc": "你的单位们获得10%攻击速度。每过1回合，这个数额提升2%。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112459HEX647ea70b3a441.png",
+                        "galaxy_hex_name": "战斗准备 I（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成3%额外伤害，所受伤害降低3%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112521HEX647ea72108055.png",
+                        "galaxy_hex_name": "战斗准备 II（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成6%额外伤害，所受伤害降低6%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112545HEX647ea73961d44.png",
+                        "galaxy_hex_name": "战斗准备 III（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成8%额外伤害，所受伤害降低8%。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112606HEX647ea74e51cb2.png",
+                        "galaxy_hex_name": "开飙！ I（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们多生成10%法力值并且移动速度快20%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112615HEX647ea757199d5.png",
+                        "galaxy_hex_name": "开飙！II（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们多生成20%法力值并且移动速度快30%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112622HEX647ea75ec44a4.png",
+                        "galaxy_hex_name": "开飙！！！III（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们多生成30%法力值并且移动速度快40%。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Ezreal.png",
+        "champion_hex_name": "伊泽瑞尔 : 装备大师",
+        "champion_hex_desc": "装备越多，表现越好！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114215HEX647eab1771237.png",
+                        "galaxy_hex_name": "珍藏财宝 I（英雄传说之力）",
+                        "galaxy_hex_desc": "接下来的2个回合（包括这个回合）在开始时都会获得一件随机的基础装备和1金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114236HEX647eab2ce2c6d.png",
+                        "galaxy_hex_name": "珍藏财宝 II(英雄传说之力)",
+                        "galaxy_hex_desc": "接下来的3个回合（包括这个回合）在开始时都会获得一件随机的基础装备和1金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114254HEX647eab3eb4130.png",
+                        "galaxy_hex_name": "珍藏财宝 III(英雄传说之力)",
+                        "galaxy_hex_desc": "接下来的5个回合（包括这个回合）在开始时都会获得一件随机的基础装备和1金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111325HEX647ea455a5845.png",
+                        "galaxy_hex_name": "微小百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机基础装备，8金币和1个【装备拆卸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111359HEX647ea477bf76b.png",
+                        "galaxy_hex_name": "大百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机基础装备、12金币和1个【装备重铸器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606111420HEX647ea48ce2e8a.png",
+                        "galaxy_hex_name": "巨大百宝袋（英雄传说之力）",
+                        "galaxy_hex_desc": "获得3件随机基础装备、15金币和1个【次级英雄复制器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112735HEX647ea7a7e6429.png",
+                        "galaxy_hex_name": "应得的享受 I（英雄传说之力）",
+                        "galaxy_hex_desc": "你的英雄们获得60x已携带装备数的生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112743HEX647ea7af64714.png",
+                        "galaxy_hex_name": "应得的享受 II（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们获得111x已携带装备数的生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112750HEX647ea7b654f54.png",
+                        "galaxy_hex_name": "应得的享受 III（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们获得120x已携带装备数的生命值和8%x已携带装备数的攻击速度。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_LeeSin.png",
+        "champion_hex_name": "李青 : 制胜大师",
+        "champion_hex_desc": "刷新你的商店来获得完美的弈子们！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531171404HEX64770fdca6f1f.png",
+                        "galaxy_hex_name": "DD街区 (英雄传说之力)",
+                        "galaxy_hex_desc": "每回合提供1次免费的商店刷新"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114358HEX647eab7e587dc.png",
+                        "galaxy_hex_name": "升星之运(英雄传说之力)",
+                        "galaxy_hex_desc": "每当你将一个弈子升星时，就会获得一次免费的刷新。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114431HEX647eab9f54140.png",
+                        "galaxy_hex_name": "大买特买（英雄传说之力）",
+                        "galaxy_hex_desc": "每回合获得1金币。在你升级时，获得相当于你等级数的免费商店刷新，这些刷新可保留至后续回合使用。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112936HEX647ea820ef024.png",
+                        "galaxy_hex_name": "训练奖励 I（英雄传说之力）",
+                        "galaxy_hex_desc": "提供7金币和1个【次级英雄复制器】"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112930HEX647ea81a32c5e.png",
+                        "galaxy_hex_name": "训练奖励 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得15金币和1个【次级英雄复制器】。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112921HEX647ea8111c824.png",
+                        "galaxy_hex_name": "训练奖励 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得24金币和1个【英雄复制器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104920HEX647e9eb0cc9a7.png",
+                        "galaxy_hex_name": "钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "立刻提供12金币。4回合后，再次获得12金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606104956HEX647e9ed4ec7e9.png",
+                        "galaxy_hex_name": "钱钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "获得20金币。4回合后，再次获得20金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105017HEX647e9ee9d4efa.png",
+                        "galaxy_hex_name": "钱钱钱！（英雄传说之力）",
+                        "galaxy_hex_desc": "获得30金币。4回合后，再次获得30金币。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_TwistedFate.png",
+        "champion_hex_name": "崔斯特 : 好运来",
+        "champion_hex_desc": "获得你刚好需要的那些装备！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531162139HEX6477039360cbb.png",
+                        "galaxy_hex_name": "潘朵拉的装备 (英雄传说之力)",
+                        "galaxy_hex_desc": "提供1件随机基础装备。在每个回合开始时，你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230625111319HEX6497b0cfe39b5.png",
+                        "galaxy_hex_name": "潘朵拉的装备 II (英雄传说之力)",
+                        "galaxy_hex_desc": "提供1件随机成装。在每个回合开始时，你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114648HEX647eac28a424b.png",
+                        "galaxy_hex_name": "潘朵拉的盒子(英雄传说之力)",
+                        "galaxy_hex_desc": "获得1件随机光明武器。回合开始时：你备战席上的装备会随机变化（【金铲铲冠冕】、【金铲铲】和消耗品除外）。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110734HEX647ea2f68d4ae.PNG",
+                        "galaxy_hex_name": "百宝袋 I（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1件随机成装"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110815HEX647ea31fecbe0.PNG",
+                        "galaxy_hex_name": "装备百宝袋 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得1件随机成装、1件随机基础装备和5金币。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110845HEX647ea33d183c6.PNG",
+                        "galaxy_hex_name": "装备百宝袋 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得2件随机成装和8金币。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113215HEX647ea8bfecb96.png",
+                        "galaxy_hex_name": "对影成双 I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的1件随机成装，以及1金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113244HEX647ea8dc880e3.png",
+                        "galaxy_hex_name": "对影成双 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的1件随机成装，以及8金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230607144757HEX6480281d7c496.png",
+                        "galaxy_hex_name": "对影成双 III",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的2件随机成装，以及3金币。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Bard.png",
+        "champion_hex_name": "巴德 : 漫游大师",
+        "champion_hex_desc": "在你升级时获得更多强度！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114526HEX647eabd6d5f52.png",
+                        "galaxy_hex_name": "游神的盟友(英雄传说之力)",
+                        "galaxy_hex_desc": "在你到达6级时，获得一个2星3阶弈子。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114546HEX647eabea4d484.png",
+                        "galaxy_hex_name": "游神的眷顾(英雄传说之力)",
+                        "galaxy_hex_desc": "在你到达6级时，获得3件随机基础装备。然后在你到达8级时，获得2件额外的随机基础装备。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606114605HEX647eabfd54e3d.png",
+                        "galaxy_hex_name": "游神的神选(英雄传说之力)",
+                        "galaxy_hex_desc": "在你到达5级时，开启一个武器库，并从5件独特光明武器之中选出1件。在9级时，再次获得这个效果，并获得1个【装备拆卸器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103255HEX647e9ad7ba231.png",
+                        "galaxy_hex_name": "中型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【成装锻造器】和10金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606102705HEX647e9979a95be.png",
+                        "galaxy_hex_name": "小型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "提供1个【基础装备锻造器】和6金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606103419HEX647e9b2bae557.png",
+                        "galaxy_hex_name": "大型锻炉（英雄传说之力）",
+                        "galaxy_hex_desc": "获得1个【奥恩装备锻造器】和1个【基础装备锻造器】。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113215HEX647ea8bfecb96.png",
+                        "galaxy_hex_name": "对影成双 I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的1件随机成装，以及1金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113244HEX647ea8dc880e3.png",
+                        "galaxy_hex_name": "对影成双 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的1件随机成装，以及8金币"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230607144757HEX6480281d7c496.png",
+                        "galaxy_hex_name": "对影成双 III",
+                        "galaxy_hex_desc": "获得由两个相同基础装备合成的2件随机成装，以及3金币。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Poro.png",
+        "champion_hex_name": "魄罗 : 不思议大师",
+        "champion_hex_desc": "没有定制，来一局经典模式的【云顶之弈】！",
+        "champion_hex_stages": []
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Caitlyn.png",
+        "champion_hex_name": "凯特琳 : 和平卫士",
+        "champion_hex_desc": "在对局开始时获得强力的弈子们！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113504HEX647ea968d6883.png",
+                        "galaxy_hex_name": "一二二三 (英雄传说之力)",
+                        "galaxy_hex_desc": "提供1个1阶弈子，2个2阶弈子和1个3阶弈子。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230531170913HEX64770eb9823e7.png",
+                        "galaxy_hex_name": "天生二星 (英雄传说之力)",
+                        "galaxy_hex_desc": "你购买的第1个1阶弈子和2阶弈子都会升至2星。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230602190819HEX6479cda3d266d.png",
+                        "galaxy_hex_name": "入门套件 (英雄传说之力)",
+                        "galaxy_hex_desc": "提供1个随机4费弈子，1件该弈子能用的装备，和1个与该弈子拥有一个相同羁绊的1费弈子。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112008HEX647ea5e8cdc47.png",
+                        "galaxy_hex_name": "知识下载 I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得16经验值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112035HEX647ea6033cf92.png",
+                        "galaxy_hex_name": "知识下载 II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得24经验值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112055HEX647ea617d884d.png",
+                        "galaxy_hex_name": "知识下载 III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得40经验值。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110321HEX647ea1f95f425.png",
+                        "galaxy_hex_name": "D个痛快！ I（英雄传说之力）",
+                        "galaxy_hex_desc": "获得14次免费商店刷新，可保留至后续回合使用。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110345HEX647ea2110fd8e.png",
+                        "galaxy_hex_name": "D个痛快！ II（英雄传说之力）",
+                        "galaxy_hex_desc": "获得21次免费商店刷新，可保留至后续回合使用。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110404HEX647ea224aa437.png",
+                        "galaxy_hex_name": "D个痛快！ III（英雄传说之力）",
+                        "galaxy_hex_desc": "获得35次免费商店刷新，可保留至后续回合使用。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "champion_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/legend/LargeCircle_Vladimir.png",
+        "champion_hex_name": "弗拉基米尔 : 控血大师",
+        "champion_hex_desc": "将你的生命值换成强度！",
+        "champion_hex_stages": [
+            {
+                "galaxy_stage_con": "2-1阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113014HEX647ea84665c71.png",
+                        "galaxy_hex_name": "鲜血转换 I (英雄传说之力)",
+                        "galaxy_hex_desc": "你的弈子们获得60生命值，外加2x小小英雄已损失生命值的生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113023HEX647ea84fe1fe4.png",
+                        "galaxy_hex_name": "鲜血转换 II (英雄传说之力)",
+                        "galaxy_hex_desc": "你的弈子们获得70生命值，外加4x小小英雄已损失生命值的生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606113030HEX647ea856eba7f.png",
+                        "galaxy_hex_name": "鲜血转换 III (英雄传说之力)",
+                        "galaxy_hex_desc": "你的弈子们获得120生命值，外加6x小小英雄已损失生命值的生命值。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230614163224HEX64897b186316f.png",
+                        "galaxy_hex_name": "鲜血转换 I",
+                        "galaxy_hex_desc": "你的弈子们获得20生命值，外加2x小小英雄已损失生命值的生命值。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "3-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112459HEX647ea70b3a441.png",
+                        "galaxy_hex_name": "战斗准备 I（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成3%额外伤害，所受伤害降低3%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112521HEX647ea72108055.png",
+                        "galaxy_hex_name": "战斗准备 II（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成6%额外伤害，所受伤害降低6%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606112545HEX647ea73961d44.png",
+                        "galaxy_hex_name": "战斗准备 III（英雄传说之力）",
+                        "galaxy_hex_desc": "你的队伍造成8%额外伤害，所受伤害降低8%。"
+                    }
+                ]
+            },
+            {
+                "galaxy_stage_con": "4-2阶段",
+                "galaxy_hex_list": [
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105646HEX647ea06ea5f1d.png",
+                        "galaxy_hex_name": "部分飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "在战斗环节开始15秒后，你的弈子们造成的伤害提升30%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606105710HEX647ea086ba241.png",
+                        "galaxy_hex_name": "飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "在战斗环节开始15秒后，你的弈子们造成的伤害提升 45%。"
+                    },
+                    {
+                        "galaxy_hex_img": "https://game.gtimg.cn/images/lol/act/img/tft/hex/20230606110035HEX647ea15396809.png",
+                        "galaxy_hex_name": "终极飞升（英雄传说之力）",
+                        "galaxy_hex_desc": "你的弈子们多造成15%伤害。在15秒之后，这个效果提升至3倍。"
+                    }
+                ]
+            }
+        ]
+    }
+]

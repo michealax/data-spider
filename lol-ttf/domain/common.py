@@ -4,3 +4,4 @@ class URL:
     TFT_NORMAL_HEX_URL = 'https://lol.qq.com/tft/#/hex?type=normal_hex'
     TFT_CHAMPION_HEX_URL = 'https://lol.qq.com/tft/#/hex?type=champion_hex'
     TFT_GALAXY_HEX_URL = 'https://lol.qq.com/tft/#/hex?type=galaxy_hex'
+    TFT_EQUIPMENT_MENT = 'https://lol.qq.com/tft/#/equipment'
